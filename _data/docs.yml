@@ -1,11 +1,6 @@
-- title: Getting Started
+- title: Introduction
   docs:
-  - home
-  - themes
-  - customization
-
-- title: Examples
-  docs:
-  - cheatsheet
-  - font-awesome
-  - bootstrap
+  - intro-1
+  - intro-2
+  - intro-3
+  - intro-4
