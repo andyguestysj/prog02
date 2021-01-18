@@ -1,6 +1,6 @@
 ---
 title: Classes In Java
-permalink: /docs/oop-2/
+permalink: /docs/2-oop-2/
 ---
 
 If we want to use objects in Java we first need to know how to create them and to create them we need to know how to define classes.   

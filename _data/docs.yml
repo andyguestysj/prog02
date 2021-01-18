@@ -10,7 +10,8 @@
   - review1  
 - title: 2. Classes & Objects
   docs:
-  - oop1-1-object
+  - 2-oop-1
+  - 2-oop-2
 - title: Reference
   docs:
   - replit

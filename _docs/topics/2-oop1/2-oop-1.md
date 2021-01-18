@@ -1,6 +1,6 @@
 ---
 title: Object Oriented Programming
-permalink: /docs/oop-1/
+permalink: /docs/2-oop-1/
 ---
 
 ## Objects & Classes
