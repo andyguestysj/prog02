@@ -54,4 +54,9 @@ The exercises below should give you a feel for how the exercises will work and h
 
 3. Sometimes I might give you the core of a Java program to start you off. To do this I'll give you the URL of one of my repl.it programs and ask you to **fork** a copy to your own repl.it account. Simply click the link to go to my code and click the fork button at the top of the screen (it looks like <i class="fa fa-code-fork" aria-hidden="true"></i> turned on its side). This will copy the repl to your account for you to work on.  
 
+   These types of exercises will generally have a file called **Instructions.md** which will tell you what you need to do to complete the exercise.
+
+   Fork yourself a copy of **recap2** from [https://repl.it/@andyguest/recap2#Main.java](https://repl.it/@andyguest/recap2#Main.java). There is an **Instructions.md** file that covers the exercise.  
+
+
 
