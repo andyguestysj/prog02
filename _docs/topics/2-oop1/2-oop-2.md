@@ -131,29 +131,6 @@ personB.address = "10 Downing Street";
 personB.phone = "333";
 ```
 
-### Exercise 1
-1. Colours are often represented using a scheme called ‘RGB’. With RGB we specify how much red, green
-and blue makes up a colour. 
-2. In repl.it create a new Java programme called `RGBColours`
-3. Make a Colour class which can hold red, green and blue ints and use it to create objects to represent three colours:
-|Colour|Red|Green|Blue|
-|---|---|---|---|
-|Yellow|255|255|0|
-|Purple|128|0|128|
-|Orange|255|165|0|
-
-### Exercise 2
-1. Fork yourself a copy of **javaPlayers** from [https://repl.it/@andyguest/javaPlayers#Main.java](https://repl.it/@andyguest/javaPlayers#Main.java). There is an **Instructions.md** file that covers the exercise.  
-
-### Exercise 3
-1. Fork yourself a copy of **javaPoints** from [https://repl.it/@andyguest/javaPoints#Main.java](https://repl.it/@andyguest/javaPoints#Main.java). There is an **Instructions.md** file that covers the exercise.  
-
-
-
-
-
-
-
 ### Multiple References To A Single Object
 
 Remember the *references* and the *objects* are different things in memory. It is possible to have *multiple references* all connected to a *single object*.
@@ -173,3 +150,24 @@ g.x = 77;
 * `g` - look in the object labelled `g`  
 * `.y` - find its variable `y`  
 * `= 77;` - and set it to 77
+
+Since `f` and `g` both *refer* to the same *object*, using either has the same effect.  
+
+### Exercise 1
+1. Colours are often represented using a scheme called ‘RGB’. With RGB we specify how much red, green
+and blue makes up a colour. 
+2. In repl.it create a new Java programme called `RGBColours`
+3. Make a Colour class which can hold red, green and blue ints and use it to create objects to represent three colours:
+|Colour|Red|Green|Blue|
+|---|---|---|---|
+|Yellow|255|255|0|
+|Purple|128|0|128|
+|Orange|255|165|0|
+
+### Exercise 2
+1. Fork yourself a copy of **javaPlayers** from [https://repl.it/@andyguest/javaPlayers#Main.java](https://repl.it/@andyguest/javaPlayers#Main.java). There is an **Instructions.md** file that covers the exercise.  
+
+### Exercise 3
+1. Fork yourself a copy of **javaPoints** from [https://repl.it/@andyguest/javaPoints#Main.java](https://repl.it/@andyguest/javaPoints#Main.java). There is an **Instructions.md** file that covers the exercise.  
+
+
