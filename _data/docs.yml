@@ -4,3 +4,14 @@
   - intro-2
   - intro-3
   - intro-4
+- title: Lectures
+- title: 1. Review
+  docs:
+  - review1  
+- title: 2. Classes & Objects
+  docs:
+  - oop1-1-object
+- title: Reference
+  docs:
+  - replit
+  - git

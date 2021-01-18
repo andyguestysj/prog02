@@ -12,6 +12,7 @@ With the current Covid situation classes will be held entirely online. I am unli
 Dr Andy Guest  
 [contact me](mailto:a.guest@yorksj.ac.uk) a.guest@yorksj.ac.uk  
 (01904) (62)6524  
+Or through MS Teams
 
 
 
