@@ -1,6 +1,6 @@
 ---
 title: Java Recap
-permalink: /docs/review-1/
+permalink: /docs/review1/
 ---
 
 ## <a name="outline"></a>Programming 01 - Module Outline  
