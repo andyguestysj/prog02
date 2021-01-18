@@ -8,10 +8,15 @@
 - title: 1. Review
   docs:
   - review1  
+  - review2
+  - review3
 - title: 2. Classes & Objects
   docs:
   - 2-oop-1
   - 2-oop-2
+  - 2-oop-3
+  - 2-oop-4
+  - 2-oop-5
 - title: Reference
   docs:
   - replit
