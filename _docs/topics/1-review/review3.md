@@ -3,8 +3,6 @@ title: Exercises
 permalink: /docs/review3/
 ---
 
-## <a name="outline"></a>Programming 01 - Module Outline  
-
 Each week's course materials will include some learning exercises. These exercises will either be interspersed throughout the material or as a collection of exercises at the end of the material, or both. The exercise format will vary depending on the topic.  
 
 The exercises below should give you a feel for how the exercises will work and hopefully serve as a refresher on some of the material from last semester.  

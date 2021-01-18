@@ -3,7 +3,7 @@ title: More Referencing
 permalink: /docs/2-oop-3/
 ---
 
-### Multiple References To A Single Object
+## Multiple References To A Single Object
 
 Remember the *references* and the *objects* are different things in memory. It is possible to have *multiple references* all connected to a *single object*.
 
