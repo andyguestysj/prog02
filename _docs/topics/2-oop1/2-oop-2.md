@@ -157,7 +157,8 @@ Since `f` and `g` both *refer* to the same *object*, using either has the same e
 1. Colours are often represented using a scheme called ‘RGB’. With RGB we specify how much red, green
 and blue makes up a colour. 
 2. In repl.it create a new Java programme called `RGBColours`
-3. Make a Colour class which can hold red, green and blue ints and use it to create objects to represent three colours:
+3. Make a Colour class which can hold red, green and blue ints and use it to create objects to represent three colours:  
+
 |Colour|Red|Green|Blue|
 |---|---|---|---|
 |Yellow|255|255|0|
