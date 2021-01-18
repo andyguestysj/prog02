@@ -131,28 +131,6 @@ personB.address = "10 Downing Street";
 personB.phone = "333";
 ```
 
-### Multiple References To A Single Object
-
-Remember the *references* and the *objects* are different things in memory. It is possible to have *multiple references* all connected to a *single object*.
-
-```java
-Foo f = new Foo();
-f.x = 42;
-f.y = 9;  
-
-Foo g = f;
-g.x = 77;
-```
-
-![two references to a single object](https://ysjprog02.netlify.app/assets/img/topics/2oop1/simpleobject4.png)
-
-`g.x = 77;`  
-* `g` - look in the object labelled `g`  
-* `.y` - find its variable `y`  
-* `= 77;` - and set it to 77
-
-Since `f` and `g` both *refer* to the same *object*, using either has the same effect.  
-
 ### Exercise 1
 1. Colours are often represented using a scheme called ‘RGB’. With RGB we specify how much red, green
 and blue makes up a colour. 
@@ -167,8 +145,5 @@ and blue makes up a colour.
 
 ### Exercise 2
 1. Fork yourself a copy of **javaPlayers** from [https://repl.it/@andyguest/javaPlayers#Main.java](https://repl.it/@andyguest/javaPlayers#Main.java). There is an **Instructions.md** file that covers the exercise.  
-
-### Exercise 3
-1. Fork yourself a copy of **javaPoints** from [https://repl.it/@andyguest/javaPoints#Main.java](https://repl.it/@andyguest/javaPoints#Main.java). There is an **Instructions.md** file that covers the exercise.  
 
 
