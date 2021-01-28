@@ -23,5 +23,7 @@ The exercises below should give you a feel for how the exercises will work and h
 
    Fork yourself a copy of **recap2** from [https://repl.it/@andyguest/recap2#Main.java](https://repl.it/@andyguest/recap2#Main.java). There is an **Instructions.md** file that covers the exercise.  
 
-
+## Solutions To Exercises
+recap1 - [https://repl.it/@andyguest/javaRecap1](https://repl.it/@andyguest/javaRecap1)  
+recap2 - [https://repl.it/@andyguest/javaRecap2](https://repl.it/@andyguest/javaRecap2)  
 

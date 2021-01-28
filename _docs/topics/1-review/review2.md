@@ -33,7 +33,5 @@ Each week's course materials will include some learning exercises. These exercis
 Portfolio  
 * Submitted at the end of the module  
 * Consisting of  
-  * Java Programming Exercise A
-    * Code & Documentation  
-  * Java Programming Exercise B
+  * Java Programming Exercise
     * Code & Documentation  

@@ -27,9 +27,8 @@ permalink: /docs/intro-1/
 Portfolio  
 * Submitted at the end of the module  
 * Consisting of  
-  * Java Programming Exercise A
+  * Java Programming Exercise
     * Code & Documentation  
-  * Java Programming Exercise B
-    * Code & Documentation  
+
 
 

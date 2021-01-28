@@ -3,6 +3,9 @@ title: Java Recap
 permalink: /docs/review1/
 ---
 
+Video of this lecture.  
+[https://web.microsoftstream.com/video/7d1b016f-c7db-4f62-ad1b-f963d40a4dcc](https://web.microsoftstream.com/video/7d1b016f-c7db-4f62-ad1b-f963d40a4dcc)
+
 ## <a name="outline"></a>Programming 01 - Module Outline  
 
 ### Java
