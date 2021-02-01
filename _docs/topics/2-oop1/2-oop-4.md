@@ -65,10 +65,10 @@ void main ( String [] args )
 {  
   Frobozz f = new Frobozz();  
   f.a = "Hello world";  
-  my GreatMethod(f);
+  myGreatMethod(f);
 }
 
-void my GreatMethod (Frobozz g) 
+void myGreatMethod (Frobozz g) 
 {  
   System.out.println(g.a);
 }
@@ -96,11 +96,11 @@ void main ( String [] args )
 {  
   Frobozz f = new Frobozz();  
   f.a = "Hello world";  
-  my GreatMethod(f);
+  myGreatMethod(f);
   System.out.println("f is " + f.a);
 }
 
-void my GreatMethod (Frobozz g) 
+void myGreatMethod (Frobozz g) 
 {  
   g.a = "Hello Mum";
   System.out.println("g is " + g.a);
