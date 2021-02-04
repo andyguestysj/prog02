@@ -12,3 +12,7 @@ permalink: /docs/2-oop-5/
 ## Exercise 3
 1. Fork yourself a copy of **javaThreePintsAtLunchtime** from [https://repl.it/@andyguest/javaThreePintsAtLunchtime#Main.java](https://repl.it/@andyguest/javaThreePintsAtLunchtime#Main.java). There is an **Instructions.md** file that covers the exercise. 
 
+## Solutions
+**Exercise 1** [https://repl.it/@andyguest/javaCirclesSolution](https://repl.it/@andyguest/javaCirclesSolution)  
+**Exercise 1** [https://repl.it/@andyguest/javaWaterFightSolution](https://repl.it/@andyguest/javaWaterFightSolution)  
+**Exercise 1** [https://repl.it/@andyguest/javaThreePintsAtLunchtimeSolution](https://repl.it/@andyguest/javaThreePintsAtLunchtimeSolution)  
