@@ -107,9 +107,9 @@ void main() {
 }
 ```
 
-What does this print? Does it use the *member variable x* which is set to 9 in the line `f.y = 9;` or does it print 17 which is the parameter value from `f.setX(17);`?  
+What does this print? Does it use the *member variable x* which is set to 42 in the line `f.x = 42;` or does it print 17 which is the parameter value from `f.setX(17);`?  
 
-The correct answer is it prints 9. Why? Where there is an ambiguity the system will choose the one with the most local scope. Or to put it another way, the most recently defined variable with that name. In this case that is the parameter x.  
+The correct answer is it prints 42. Why? Where there is an ambiguity the system will choose the one with the most local scope. Or to put it another way, the most recently defined variable with that name. In this case that is the parameter x.  
 
 How do you use the *member variable* in these circumstances? You can always access member variables (within class methods) by using the `this` keyword.  
 
@@ -133,7 +133,7 @@ void main() {
 ```
 will output  
 ```console
-17
+42
 9
 ```
 
@@ -159,7 +159,7 @@ void main() {
 ```
 will output  
 ```console
-42
-42
+9
+9
 ```
 
