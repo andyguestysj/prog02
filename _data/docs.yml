@@ -28,6 +28,9 @@
 - title: 4. Encapsulation
   docs:
   - 4-encapsulation-1
+  - 4-encapsulation-2
+  - 4-encapsulation-3
+  - 4-encapsulation-4
 - title: Repl.it Unit Testing
   docs:
   - 5-unittesting-1
