@@ -134,6 +134,7 @@ public class ClassName {
 If there is some functionality you need to be able to trigger from outside the object then make a public method to do that.
 
 7. Create **private** internal methods
+
 ```java
 public class ClassName {
   private String  name;
