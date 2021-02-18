@@ -3,7 +3,7 @@ title: Recap
 permalink: /docs/5-inheritance-1/
 ---
 
-Video of this lecture.  HERE
+Video of this lecture. 
 
 
 ## Recap
