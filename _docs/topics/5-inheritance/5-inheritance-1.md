@@ -3,7 +3,7 @@ title: Recap
 permalink: /docs/5-inheritance-1/
 ---
 
-Video of this lecture.  
+Video of this lecture.  HERE
 
 
 ## Recap
@@ -18,4 +18,6 @@ So far we have covered
 * **Encapsulation**
 
 We have two major components of OOP left to look at, inheritance and abstraction. We'll start with inheritance.  
+
+
 
