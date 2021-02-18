@@ -25,15 +25,18 @@
   - 3-classMethods-3
   - 3-classMethods-4
   - 3-classMethods-5
-- title: 4. Encapsulation
+  - title: 4. Encapsulation
   docs:
   - 4-encapsulation-1
   - 4-encapsulation-2
   - 4-encapsulation-3
-  - 4-encapsulation-4
+  - 4-encapsulation-4  
+- title: 5. Inheritance
+  docs:
+  - 5-inheritance-1
 - title: Repl.it Unit Testing
   docs:
-  - 5-unittesting-1
+  - unittesting-1
 - title: Reference
   docs:
   - replit

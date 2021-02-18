@@ -1,8 +1,7 @@
 ---
-title: Exercises
+title: Abstraction
 permalink: /docs/4-encapsulation-4/
 ---
-
 ## Exercise 1
 1. Fork yourself a copy of **javaWk4Ex1** from [https://repl.it/@andyguest/javaWk4Ex1](https://repl.it/@andyguest/javaWk4Ex1). There is an **Instructions.md** file that covers the exercise. 
 
@@ -13,7 +12,13 @@ permalink: /docs/4-encapsulation-4/
 
 1. Fork yourself a copy of **javaWk4Ex3** from [https://repl.it/@andyguest/javaWk4Ex3](https://repl.it/@andyguest/javaWk4Ex3). There is an **Instructions.md** file that covers the exercise. 
 
-
+## Solutions
+### Exercise 1
+[https://repl.it/@andyguest/javaWk4Ex1Solution](https://repl.it/@andyguest/javaWk4Ex1Solution)
+### Exercise 2
+[https://repl.it/@andyguest/javaWk4Ex2Solution](https://repl.it/@andyguest/javaWk4Ex2Solution)
+### Exercise 3
+[https://repl.it/@andyguest/javaWk4Ex3Solution](https://repl.it/@andyguest/javaWk4Ex3Solution)
 
 
 
