@@ -1,5 +1,5 @@
 ---
-title: Abstraction
+title: Exercises
 permalink: /docs/4-encapsulation-4/
 ---
 ## Exercise 1

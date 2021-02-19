@@ -3,7 +3,7 @@ title: Encapsulation
 permalink: /docs/4-encapsulation-1/
 ---
 
-Video of this lecture.  
+Video of this lecture.  [https://web.microsoftstream.com/video/9cba7383-5d02-444f-b746-c4c805ff36e5](https://web.microsoftstream.com/video/9cba7383-5d02-444f-b746-c4c805ff36e5)  
 
 
 ## Recap
@@ -72,8 +72,6 @@ public class Bar {
   }
 }
 ```
-
-`println()` can be called within `printMe()` because `printMe()` is part of the object. `println()` cannot be called from `main()` because `main()` is not.  
 
 From now on we should try to make sure that all *member variables* and *class methods* are declared as **public** or **private**. At least until we need to use protected :-).  
 
