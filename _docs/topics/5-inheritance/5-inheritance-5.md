@@ -111,9 +111,13 @@ import java.util.ArrayList; // import the ArrayList class
 public class Main {
   public static void main(String[] args) {
     ArrayList<Square> squares = new ArrayList<Square>();
-    cars.add(new Square(5,6,7));
-    cars.add(new Square(1,3,2));
-    cars.add(new Square(17,2,13));
+    Square newSquare;
+    newSquare = new Square(5,6,7);
+    squares.add(newSquare);
+    newSquare = new Square(1,3,2);
+    squares.add(newSquare);
+    newSquare = new Square(17,2,13);
+    squares.add(newSquare);
     System.out.println(squares);
   }
 }
@@ -127,10 +131,13 @@ import java.util.ArrayList; // import the ArrayList class
 public class Main {
   public static void main(String[] args) {
     ArrayList<Square> squares = new ArrayList<Square>();
-    cars.add(new Square(5,6,7));
-    cars.add(new Square(1,3,2));
-    cars.add(new Square(17,2,13));
-    
+    Square newSquare;
+    newSquare = new Square(5,6,7);
+    squares.add(newSquare);
+    newSquare = new Square(1,3,2);
+    squares.add(newSquare);
+    newSquare = new Square(17,2,13);
+    squares.add(newSquare);    
 
     // Call each squares draw() method
     for (Square s : squares) {
@@ -147,14 +154,17 @@ import java.util.ArrayList; // import the ArrayList class
 
 public class Main {
   public static void main(String[] args) {
-    ArrayList<Square> squares = new ArrayList<Square>();
-    cars.add(new Square(5,6,7));
-    cars.add(new Rectangle(1,3,2,5));
-    cars.add(new Circle(17,2,13));
-    
+    ArrayList<Shape> shapes = new ArrayList<Shape>();
+    Shape newShape;
+    newShape = new Square(5,6,7);
+    shapes.add(newShape);
+    newShape = new Circle(1,3,2);
+    shapes.add(newShape);
+    newShape = new Rectangle(17,2,13,3);
+    shapes.add(newShape);    
 
     // Call each squares shape's method
-    for (Square s : squares) {
+    for (Shape s : shapes) {
       s.draw(); 
     }
   }

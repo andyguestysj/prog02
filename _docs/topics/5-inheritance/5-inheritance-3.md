@@ -145,7 +145,7 @@ We've added a new member variable to the `Dog` class to indicate if it has a col
 public class Dog extends Animal {
   public boolean collar; // Does the dog have a collar
 
-  public Animal(String name, String type, String eats, boolean collar){
+  public Dog(String name, String type, String eats, boolean collar){
     this.name = name;
     this.type = type;
     this.eats = eats;

@@ -62,7 +62,7 @@ public class Ape {
   }
 
   public void climb() {
-    // make the ape fly.
+    // make the ape climb.
   }
 }
 ```
@@ -100,11 +100,11 @@ public class Ape {
   }
 
   public void run() {
-    // make the ape hop
+    // make the ape run
   }
 
   public void climb() {
-    // make the ape fly.
+    // make the ape climb.
   }
 }
 
@@ -153,7 +153,7 @@ public class Animal {
 public class Ape extends Animal {
 
   public void climb() {
-    // make the ape fly.
+    // make the ape climb.
   }
 }
 
