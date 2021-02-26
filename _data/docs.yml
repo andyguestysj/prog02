@@ -38,6 +38,9 @@
   - 5-inheritance-4
   - 5-inheritance-5
   - 5-inheritance-6
+- title: 6. Object Orientation
+  docs:
+  - 6-oop2-1
 - title: Repl.it Unit Testing
   docs:
   - unittesting-1
