@@ -21,6 +21,10 @@ permalink: /docs/4-encapsulation-4/
 [https://repl.it/@andyguest/javaWk4Ex3Solution](https://repl.it/@andyguest/javaWk4Ex3Solution)
 
 
+## Walkthrough of Exercise 3 Solution
+Video here [https://web.microsoftstream.com/video/d46ceb4c-952c-45b9-ab4b-2384c9434be1](https://web.microsoftstream.com/video/d46ceb4c-952c-45b9-ab4b-2384c9434be1)  
+Code from walkthrough [https://repl.it/@andyguest/javaWk4Ex3WorkThruAM](https://repl.it/@andyguest/javaWk4Ex3WorkThruAM)  
+
 
 ## Formative Assessment
 1. Fork yourself a copy of **javaComplex** from [https://repl.it/@andyguest/javaComplex](https://repl.it/@andyguest/javaComplex). There is an **Instructions.md** file that covers the exercise. This is a formative exercise. If you complete it and share your solution with me before 12 noon on 01/03/2021 I will mark it and give you feedback on it (in repl).
