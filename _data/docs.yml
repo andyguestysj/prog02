@@ -50,6 +50,9 @@
 - title: Repl.it Unit Testing
   docs:
   - unittesting-1
+- title: Mid-Module Evaluation
+  docs:
+  - midmod-1
 - title: Reference
   docs:
   - replit
