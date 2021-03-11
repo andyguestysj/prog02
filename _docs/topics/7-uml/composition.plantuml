@@ -1,0 +1,6 @@
+@startuml
+skinparam monochrome true
+skinparam classAttributeIconSize 0
+Pond "0..1" o-- "0..*" Duck
+Car "1..1" *-- "0..5" Wheel
+ @enduml

@@ -1,0 +1,12 @@
+@startuml
+skinparam monochrome true
+skinparam classAttributeIconSize 0
+skinparam groupInheritance 2
+class Person
+together {
+  class Student
+  class Lecturer
+}
+Person <|-- Student
+Person <|-- Lecturer
+@enduml

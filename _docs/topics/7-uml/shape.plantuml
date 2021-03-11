@@ -1,0 +1,48 @@
+@startuml
+skinparam monochrome true
+skinparam classAttributeIconSize 0
+abstract class Shape {
+  -colour:Colour  
+  +{abstract}area():float
+  +{abstract}circumference():float
+  +setColour(colour:Colour)
+}
+class Image {
+  -list:Shape
+  +addShape(shape:Shape)
+}
+together {
+  class Circle {
+    -radius:float
+    +setRadius(radius:float)
+    +area():float
+    +circumference():float
+  }
+  class Rectangle {
+    -width:float
+    -height:float
+    +setDimensions(width:float, height:float)
+    +area():float
+    +circumference():float
+  }
+  class Triangle {
+    -base:float
+    -height:float
+    +setDimensions(base:float, height:float)
+    +area():float
+    +circumference():float
+  }
+}
+class Colour{
+  -red:int
+  -green:int
+  -blue:int
+  +setColour(red:int, green:int, blue:int)
+  +getColour(col:int):int
+}
+Image::list "1" - "1..*" Shape
+Shape <|-- Circle
+Shape <|-- Rectangle
+Shape <|-- Triangle
+Shape::colour "1" - "1" Colour
+@enduml

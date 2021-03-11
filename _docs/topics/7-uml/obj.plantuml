@@ -1,0 +1,8 @@
+@startuml
+skinparam monochrome true
+skinparam classAttributeIconSize 0
+object "<u>objectName:ClassName</u>" as objectName {
+  memberVariable1 = "Value"
+  memberVariable2 = 24
+}
+@enduml

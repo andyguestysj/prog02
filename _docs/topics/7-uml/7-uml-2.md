@@ -55,5 +55,84 @@ In addition the accessibility of member variables and class methods may be shown
 
 ### Class Relationship
 
+The lines between classes indicate different types of relationships. 
+
 ![Class Relationships](https://ysjprog02.netlify.app/assets/img/topics/7uml/uml-class-relation-symbols.png)
 *Class Relationships*  
+
+(Definitions from Wikipedia)
+
+#### Dependency
+
+A dependency is a semantic connection between dependent and independent model elements. It exists between two elements if changes to the definition of one element (the server or target) may cause changes to the other (the client or source). This association is uni-directional. A dependency is displayed as a dashed line with an open arrow that points from the client to the supplier.
+
+#### Association 
+
+An association represents a family of links. A binary association (with two ends) is normally represented as a line. An association can link any number of classes. An association with three links is called a ternary association. An association can be named, and the ends of an association can be adorned with role names, ownership indicators, multiplicity, visibility, and other properties.
+
+There are four different types of association: bi-directional, uni-directional, aggregation (includes composition aggregation) and reflexive. Bi-directional and uni-directional associations are the most common ones.
+
+For instance, a flight class is associated with a plane class bi-directionally. Association represents the static relationship shared among the objects of two classes.
+
+![Association](https://ysjprog02.netlify.app/assets/img/topics/7uml/association.png)
+*Association* 
+
+#### Aggregation
+
+Aggregation is a variant of the "has a" association relationship; aggregation is more specific than association. It is an association that represents a part-whole or part-of relationship. As shown in the image, a Professor 'has a' class to teach. As a type of association, an aggregation can be named and have the same adornments that an association can. However, an aggregation may not involve more than two classes; it must be a binary association. Furthermore, there is hardly a difference between aggregations and associations during implementation, and the diagram may skip aggregation relations altogether
+
+![Aggregation](https://ysjprog02.netlify.app/assets/img/topics/7uml/aggregation.png)
+*Aggregation* 
+
+#### Composition
+
+The UML representation of a composition relationship shows composition as a filled diamond shape on the containing class end of the lines that connect contained class(es) to the containing class.
+
+![Composition](https://ysjprog02.netlify.app/assets/img/topics/7uml/composition.png)
+*Composition* 
+
+Two class diagrams. The diagram on the right shows Composition between two classes: A Car has exactly up to four wheels, and the wheels are part of one Car. Wheels cannot exist as separate parts, detached from a specific car. 
+
+The diagram on the left shows Aggregation between two classes: A Pond has zero or more Ducks, and a Duck has at most one Pond (at a time). Ducks can exist separately from a Pond, e.g. it can live near a lake. When we destroy a Pond we usually do not kill all the Ducks.
+
+#### Inheritance 
+
+Inheritance is indicated by a line with a triangle at one end. The triangle indicates the parent class. 
+
+![Inheritance](https://ysjprog02.netlify.app/assets/img/topics/7uml/inheritance.png)
+*Inheritance* 
+
+#### Multiplicity
+
+This association relationship indicates that (at least) one of the two related classes make reference to the other. This relationship is usually described as "A has a B" (a mother cat has kittens, kittens have a mother cat).
+
+The UML representation of an association is a line connecting the two associated classes. At each end of the line there is optional notation. For example, we can indicate, using an arrowhead that the pointy end is visible from the arrow tail. We can indicate ownership by the placement of a ball, the role the elements of that end play by supplying a name for the role, and the multiplicity of instances of that entity (the range of number of objects that participate in the association from the perspective of the other end).
+
+|Symbol|Meaning|
+|---|---|
+|0|No instances (rare)|
+|0..1|No instances, or one instance|
+|1|Exactly one instance|
+|1..1|Exactly one instance|
+|0..*|Zero or more instances|
+|*|Zero or more instances|
+|1..*|One or more instances|
+
+## Class Diagram Example
+
+Looking back at the shape example we have used previously, we might come up with a class diagram like this. 
+
+![Shape Class Diagram](https://ysjprog02.netlify.app/assets/img/topics/7uml/shape.png)
+*Shape Class Diagram* 
+
+I've added in an `Image` class which stores a list of `Shape` objects that make up an image.
+
+The *abstract class* *`Shape`* is the centre of the diagram. The classes `Triangle`, `Rectangle` and `Circle` all inherit from *`Shape`* as indicated by the relationship lines with the triangles on.
+
+The `Colour` class is has a one to one relationship with the *`Shape`* class. Each *`Shape`* object is connected to one and only one colour and we don't have colours that aren't connected to a *`Shape`* object. Remember that anything in *`Shape`* is also in all classes that inherit from it and this includes relationships to other classes. (This does not apply to inheritance relationships).
+
+## Class Diagrams
+
+Class Diagrams are completely static. This means that at any point in the execution of the program the class diagram is the same.  
+
+Next we will look at object diagrams. Object diagrams are snapshots of the relationships between objects as a specific moment in time.
