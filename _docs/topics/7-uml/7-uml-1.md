@@ -22,7 +22,8 @@ Finally new systems are modelled as part of the design for that new system.
 
 The Unified Modelling Language (UML) was developed as a standardised graphical language for specifying, visualising, constructing and documenting the artefacts of software systems. It was designed to model the structure, behaviour and function of the code through a selection of diagrams.
 
-![UML Diagram Hierarchy](https://ysjprog02.netlify.app/assets/img/topics/7uml/uml_overview.png)*UML Diagram Hierarchy*  
+![UML Diagram Hierarchy](https://ysjprog02.netlify.app/assets/img/topics/7uml/uml_overview.png)
+*UML Diagram Hierarchy*  
 
 UML Diagrams are divided in to two groups, as shown in the image above.  
 
