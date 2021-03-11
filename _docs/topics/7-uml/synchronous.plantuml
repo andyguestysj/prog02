@@ -1,0 +1,10 @@
+@startuml
+skinparam monochrome true
+skinparam classAttributeIconSize 0
+actor User
+participant Device
+User -> Device : Get Time
+activate Device
+Device -> User : Return Time
+deactivate Device
+@enduml
