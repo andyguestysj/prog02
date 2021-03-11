@@ -1,0 +1,11 @@
+
+@startuml
+skinparam monochrome true
+skinparam classAttributeIconSize 0
+class ClassName {
+  +publicMemberVariable : float
+  -privateMemberVariable : int
+  +setPrivateMember(parameter : int)
+  +getPrivateMember() : int
+  }
+ @enduml

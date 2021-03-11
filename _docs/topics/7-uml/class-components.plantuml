@@ -1,0 +1,9 @@
+@startuml
+skinparam monochrome true
+skinparam classAttributeIconSize 0
+class ClassName {
+  memberVariableName1 : variableType
+  memberVariableName1 : int
+  methodName(parameter : parameterType) : returnType
+  }
+ @enduml
