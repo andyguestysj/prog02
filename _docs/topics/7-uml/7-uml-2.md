@@ -1,6 +1,6 @@
 ---
 title: Unified Modelling Language
-permalink: /docs/7-uml-1/
+permalink: /docs/7-uml-2/
 ---
 
 Video of this lecture.  
