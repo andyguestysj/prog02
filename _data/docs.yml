@@ -48,6 +48,9 @@
   - 6-oop2-6
   - 6-oop2-7
   - 6-oop2-8
+- title: 7. Unified Modelling Language
+  docs:
+  - 7-uml-1
 - title: Repl.it Unit Testing
   docs:
   - unittesting-1
