@@ -40,8 +40,6 @@ The [PlantUML Website](https://plantuml.com/) holds lots of information on how t
 ## Class Diagrams
 
 
-
-
 <div class="row">
   <div class="col-md-6" markdown="1">
 
