@@ -106,9 +106,36 @@ The symbols `+`, `-`, `#`, `~` can be added before the member variables or metho
 
 You can place the `{abstract}` modifier before any class name, variable or method to make it abstract.
 
+### Relationships
 
+Relationships between classes are added separately from the classes themselves. The code below indicates a simple relationship between `Class1` and `Class2`.
 
-### Inheritance
+```console
+Class1 -- Class2
+```
+
+The ways of showing different types of relationships are shown at [https://plantuml.com/class-diagram](https://plantuml.com/class-diagram).
+
+If `Class2` inherits from `Class1` we can show this by changing the connection to `<|--`. Note the parent should be on the left hand side.  
+
+```console
+Class1 <|-- Class2
+```
+
+We can show multiplicity by adding the number ranges before and after the connection.
+
+```console
+Class1 "1" -- "1..*" Class2
+```
+
+This would show a one to many relationship between Class1 and Class2.
+
+Finally we can add a name to the relationship by adding a `: name` to the end of the line.
+
+```console
+Class1 "1" *-- "1..*" Class2 : contains
+```
+#### Inheritance Example 
 <div class="row">
   <div class="col-md-6" markdown="1">
 
@@ -137,3 +164,69 @@ Person <|-- Lecturer
   </div>  
 </div>
 
+## Class Diagram Example
+
+<div class="row">
+  <div class="col-md-6" markdown="1">
+
+  ```console
+@startuml
+skinparam monochrome true
+skinparam classAttributeIconSize 0
+abstract class Shape {
+  -colour:Colour  
+  +{abstract}area():float
+  +{abstract}circumference():float
+  +setColour(colour:Colour)
+}
+class Image {
+  -list:Shape
+  +addShape(shape:Shape)
+}
+together {
+  class Circle {
+    -radius:float
+    +setRadius(radius:float)
+    +area():float
+    +circumference():float
+  }
+  class Rectangle {
+    -width:float
+    -height:float
+    +setDimensions(width:float, height:float)
+    +area():float
+    +circumference():float
+  }
+  class Triangle {
+    -base:float
+    -height:float
+    +setDimensions(base:float, height:float)
+    +area():float
+    +circumference():float
+  }
+}
+class Colour{
+  -red:int
+  -green:int
+  -blue:int
+  +setColour(red:int, green:int, blue:int)
+  +getColour(col:int):int
+}
+Image::list "1" - "1..*" Shape
+Shape <|-- Circle
+Shape <|-- Rectangle
+Shape <|-- Triangle
+Shape::colour "1" - "1" Colour
+@enduml
+
+  ```
+
+
+  </div>
+  <div class="col-md-6" markdown="1">  
+ 
+ ![Inheritance](https://ysjprog02.netlify.app/assets/img/topics/7uml/shape.png)
+*Inheritance* 
+
+  </div>  
+</div>
