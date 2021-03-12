@@ -167,7 +167,7 @@ Person <|-- Lecturer
 ### Class Diagram Example
 
  ![Inheritance](https://ysjprog02.netlify.app/assets/img/topics/7uml/shape.png)
-*Inheritance* 
+*Inheritance*  
 
 ```console
 @startuml
