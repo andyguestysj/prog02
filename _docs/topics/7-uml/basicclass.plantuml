@@ -1,0 +1,8 @@
+@startuml
+skinparam monochrome true
+skinparam classAttributeIconSize 0
+skinparam groupInheritance 2
+
+' insert code here
+class className
+@enduml
