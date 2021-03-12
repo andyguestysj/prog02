@@ -39,25 +39,32 @@ The [PlantUML Website](https://plantuml.com/) holds lots of information on how t
 
 ## Class Diagrams
 
+
+
+
 <div class="row">
-  <div class="col-md-8" markdown="1">
+  <div class="col-md-4" markdown="1">
   Some text.
+  Some text.
+  Some text.
+  Some text.
+  Some text.  
   </div>
   <div class="col-md-4" markdown="1">  
-```PlantUML
-@startuml
-skinparam monochrome true
-skinparam classAttributeIconSize 0
-skinparam groupInheritance 2
-class Person
-together {
-  class Student
-  class Lecturer
-}
-Person <|-- Student
-Person <|-- Lecturer
-@enduml
-```
+  ```PlantUML
+  @startuml
+  skinparam monochrome true
+  skinparam classAttributeIconSize 0
+  skinparam groupInheritance 2
+  class Person
+  together {
+    class Student
+    class Lecturer
+  }
+  Person <|-- Student
+  Person <|-- Lecturer
+  @enduml
+  ```
   </div>
 </div>
 
