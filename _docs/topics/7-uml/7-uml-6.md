@@ -44,33 +44,28 @@ The [PlantUML Website](https://plantuml.com/) holds lots of information on how t
 
 <div class="row">
   <div class="col-md-6" markdown="1">
-  Some text2.  
-  Some text.  
-  Some text.  
-  Some text.  
-  Some text.    
+
+  ```console
+@startuml
+skinparam monochrome true
+skinparam classAttributeIconSize 0
+skinparam groupInheritance 2
+class Person
+together {
+  class Student
+  class Lecturer
+}
+Person <|-- Student
+Person <|-- Lecturer
+@enduml
+  ```
+
+
   </div>
   <div class="col-md-6" markdown="1">  
-  <div hidden markdown="1">
-
-  ```PlantUML
-  @startuml diagram1
-  skinparam monochrome true
-  skinparam classAttributeIconSize 0
-  skinparam groupInheritance 2
-  class Person
-  together {
-    class Student
-    class Lecturer
-  }
-  Person <|-- Student
-  Person <|-- Lecturer
-  @enduml
-  ```
-  
-  </div>
-
-  ![](diagram1.svg)
+ 
+ ![Inheritance](https://ysjprog02.netlify.app/assets/img/topics/7uml/inheritance.png)
+*Inheritance* 
 
   </div>  
 </div>
