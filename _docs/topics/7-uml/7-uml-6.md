@@ -51,6 +51,7 @@ The [PlantUML Website](https://plantuml.com/) holds lots of information on how t
   Some text.  
   </div>
   <div class="col-md-6" markdown="1">  
+
   ```PlantUML
   @startuml
   skinparam monochrome true
@@ -65,6 +66,7 @@ The [PlantUML Website](https://plantuml.com/) holds lots of information on how t
   Person <|-- Lecturer
   @enduml
   ```
+  
   </div>
 </div>
 
