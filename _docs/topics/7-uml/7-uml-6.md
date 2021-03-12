@@ -51,9 +51,10 @@ The [PlantUML Website](https://plantuml.com/) holds lots of information on how t
   Some text.    
   </div>
   <div class="col-md-6" markdown="1">  
+  <div hidden>
 
   ```PlantUML
-  @startuml
+  @startuml diagram1
   skinparam monochrome true
   skinparam classAttributeIconSize 0
   skinparam groupInheritance 2
@@ -66,7 +67,11 @@ The [PlantUML Website](https://plantuml.com/) holds lots of information on how t
   Person <|-- Lecturer
   @enduml
   ```
-
+  
   </div>
+
+  ![](diagram1.svg)
+
+  </div>  
 </div>
 
