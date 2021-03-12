@@ -37,3 +37,19 @@ The actor is an entity that interacts with the system. A user is the best exampl
 ### Associations
 
 Associations between actors and use cases or between use cases are indicated by lines connecting the two.
+
+## Use Case Characteristics
+
+A use case (or set of use cases) has these characteristics:
+* Organizes functional requirements
+* Models the goals of system/actor (user) interactions
+* Records paths (called scenarios) from trigger events to goals
+* Describes one main flow of events (also called a basic course of action), and possibly other ones, called exceptional flows of events (also called alternate courses of action)
+* Is multi-level, so that one use case can use the functionality of another one.
+
+## Links
+
+* [Oracle guide to getting started with use cases](https://www.oracle.com/technetwork/developer-tools/jdev/gettingstartedwithusecasemodeling-133857.pdf)
+* [Use case diagram tutorial (with examples)](https://creately.com/blog/diagrams/use-case-diagram-tutorial/)
+* [Use Cases for Dummies](https://warren2lynch.medium.com/use-case-tutorial-for-dummies-8cf426043710) 
+* 

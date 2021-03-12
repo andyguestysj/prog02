@@ -1,0 +1,28 @@
+@startuml
+skinparam monochrome true
+skinparam classAttributeIconSize 0
+title Use ATM
+actor User
+participant ATM
+participant Control
+User -> ATM : Insert Card
+activate User
+activate ATM
+ATM -> User : Prompt For PIN
+User -> ATM : Enter PIN
+ATM -> Control : Verify PIN
+activate Control
+Control -> ATM : Valid PIN
+deactivate Control
+ATM -> User : Prompt For Action
+deactivate ATM
+deactivate User
+activate Control
+Control -> ATM : Invalid PIN
+deactivate Control
+activate ATM
+ATM -> User : Invalid PIN
+deactivate ATM
+activate User
+deactivate User
+@enduml
