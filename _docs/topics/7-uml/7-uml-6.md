@@ -62,7 +62,7 @@ Line comments begin with a `'` and block comments are `/'` to `'/`.
 
 The guide for class diagrams is [here](https://plantuml.com/class-diagram). 
 
-
+### Simple Classes
 A class can be added to a diagram with the line
 <div class="row">
   <div class="col-md-6" markdown="1">
@@ -82,7 +82,7 @@ class className
 </div>
 This will add a basic class box without any member variables or methods.
 
-
+### Classes With Member Variables and/or Class Methods
 Member variables and class methods can be added as shown below.
 <div class="row">
   <div class="col-md-6" markdown="1">
@@ -107,6 +107,8 @@ The symbols `+`, `-`, `#`, `~` can be added before the member variables or metho
 You can place the `{abstract}` modifier before any class name, variable or method to make it abstract.
 
 
+
+### Inheritance
 <div class="row">
   <div class="col-md-6" markdown="1">
 
