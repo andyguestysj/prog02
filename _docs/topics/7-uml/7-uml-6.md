@@ -164,12 +164,12 @@ Person <|-- Lecturer
   </div>  
 </div>
 
-## Class Diagram Example
+### Class Diagram Example
 
-<div class="row">
-  <div class="col-md-6" markdown="1">
+ ![Inheritance](https://ysjprog02.netlify.app/assets/img/topics/7uml/shape.png)
+*Inheritance* 
 
-  ```console
+```console
 @startuml
 skinparam monochrome true
 skinparam classAttributeIconSize 0
@@ -218,15 +218,8 @@ Shape <|-- Rectangle
 Shape <|-- Triangle
 Shape::colour "1" - "1" Colour
 @enduml
+```
 
-  ```
+## Object Diagrams
 
-
-  </div>
-  <div class="col-md-6" markdown="1">  
- 
- ![Inheritance](https://ysjprog02.netlify.app/assets/img/topics/7uml/shape.png)
-*Inheritance* 
-
-  </div>  
-</div>
+Object diagrams are very similar to class diagrams.
