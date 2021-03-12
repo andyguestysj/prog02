@@ -44,14 +44,14 @@ The [PlantUML Website](https://plantuml.com/) holds lots of information on how t
 
 <div class="row">
   <div class="col-md-6" markdown="1">
-  Some text.  
+  Some text2.  
   Some text.  
   Some text.  
   Some text.  
   Some text.    
   </div>
   <div class="col-md-6" markdown="1">  
-  <div hidden>
+  <div hidden markdown="1">
 
   ```PlantUML
   @startuml diagram1
