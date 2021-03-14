@@ -1,0 +1,27 @@
+@startuml
+skinparam monochrome true
+skinparam classAttributeIconSize 0
+left to right direction
+:Customer:
+:Bank:
+package ATM {    
+  (Transaction)
+  together {
+    (Withdraw)
+    (Check Balance) as (Check)
+    (Deposit)
+    (Print Receipt) as (Print)
+  }
+  (Bad PIN) as (Bad)
+  (Log In) as (Log)
+}
+Transaction <- Withdraw
+Transaction <- Print
+Transaction <- Deposit
+Transaction <- Check
+Transaction <. Bad : <<extend>>
+
+Customer --- Log 
+Log .. Transaction : <<include>>
+Transaction --- Bank 
+@enduml

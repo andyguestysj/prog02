@@ -223,3 +223,151 @@ Shape::colour "1" - "1" Colour
 ## Object Diagrams
 
 Object diagrams are very similar to class diagrams.
+
+ ![Shape Object Diagram](https://ysjprog02.netlify.app/assets/img/topics/7uml/objexample.png)
+*Shape Object Diagram* 
+
+```console
+@startuml
+skinparam monochrome true
+skinparam classAttributeIconSize 0
+object "<u>image:Image</u>" as image {
+  list
+}
+
+object "<u>circle1:Circle" as circle1 {
+  radius = 1.2
+  colour = colour1
+}
+object "<u>colour1:Colour" as colour1 {
+  red = 255
+  green = 0
+  blue = 0
+}
+
+object "<u>circle2:Circle" as circle2 {
+  radius = 2.4
+  colour = colour2
+}
+object "<u>colour2:Colour" as colour2 {
+  red = 0
+  green = 255
+  blue = 0
+}
+
+object "<u>rectangle1:Rectangle" as rect1 {
+  width = 1.6
+  height = 2.3
+  colour = colour3
+}
+object "<u>colour3:Colour" as colour3 {
+  red = 0
+  green = 255
+  blue = 126
+}
+
+object "<u>triangle1:Triangle" as tri1 {
+  base = 3.4
+  height = 1.3
+  colour = colour4
+}
+object "<u>colour4:Colour" as colour4 {
+  red = 255
+  green = 255
+  blue = 255
+}
+
+object "<u>triangle2:Triangle" as tri2 {
+  base = 1.2
+  height = 5.2
+  colour = colour5
+}
+object "<u>colour5:Colour" as colour5 {
+  red = 0
+  green = 0
+  blue = 0
+}
+
+circle1 -- colour1
+circle2 -- colour2
+rect1 -- colour3
+tri1 -- colour4
+tri2 -- colour5
+image -- circle1
+image -- circle2
+image -- rect1
+image -- tri1
+image -- tri2
+@enduml
+```
+
+## Use Case Diagrams
+
+ ![Use Case ATM Example](https://ysjprog02.netlify.app/assets/img/topics/7uml/ucexample.png)
+*Use Case ATM Example* 
+
+```console
+@startuml
+skinparam monochrome true
+skinparam classAttributeIconSize 0
+left to right direction
+:Customer:
+:Bank:
+package ATM {    
+  (Transaction)
+  together {
+    (Withdraw)
+    (Check Balance) as (Check)
+    (Deposit)
+    (Print Receipt) as (Print)
+  }
+  (Bad PIN) as (Bad)
+  (Log In) as (Log)
+}
+Transaction <- Withdraw
+Transaction <- Print
+Transaction <- Deposit
+Transaction <- Check
+Transaction <. Bad : <<extend>>
+
+Customer --- Log 
+Log .. Transaction : <<include>>
+Transaction --- Bank 
+@enduml
+```
+
+## Sequence Diagrams
+
+ ![Sequence ATM Example](https://ysjprog02.netlify.app/assets/img/topics/7uml/UseATM.png)
+*Sequence ATM Example* 
+
+```console
+@startuml
+skinparam monochrome true
+skinparam classAttributeIconSize 0
+title Use ATM
+actor User
+participant ATM
+participant Control
+User -> ATM : Insert Card
+activate User
+activate ATM
+ATM -> User : Prompt For PIN
+User -> ATM : Enter PIN
+ATM -> Control : Verify PIN
+activate Control
+Control -> ATM : Valid PIN
+deactivate Control
+ATM -> User : Prompt For Action
+deactivate ATM
+deactivate User
+activate Control
+Control -> ATM : Invalid PIN
+deactivate Control
+activate ATM
+ATM -> User : Invalid PIN
+deactivate ATM
+activate User
+deactivate User
+@enduml
+```
