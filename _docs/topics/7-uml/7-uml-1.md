@@ -3,7 +3,7 @@ title: Unified Modelling Language
 permalink: /docs/7-uml-1/
 ---
 
-Test change
+Test change 
 
 Video of this lecture.  
 
