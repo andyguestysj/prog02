@@ -4,8 +4,7 @@ permalink: /docs/7-uml-1/
 ---
 
 ### Video Lecture
-Video of this lecture.  
-
+[Video of this lecture](https://web.microsoftstream.com/video/62a2cc89-396b-487b-8580-6d7d5fa4a793)
 
 ## Modelling Systems
 
