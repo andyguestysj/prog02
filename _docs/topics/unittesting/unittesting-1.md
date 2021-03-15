@@ -1,11 +1,11 @@
 ---
-title: Unit Testing In Repl.it
+title: Unit Testing In replit.com
 permalink: /docs/5-unittesting-1/
 ---
 
 Video of this lecture.  
 
-Unit testing in repl.it is the same as any other environment, it is just set up a little differently.  
+Unit testing in replit.com is the same as any other environment, it is just set up a little differently.  
 
 ## Setting Up A Repl For Unit Testing
 
@@ -49,4 +49,4 @@ class Main {
 9. Your unit tests go in `UnitTest.java` as normal. You'll need to create objects and put your assertions in there.
 
 
-Alternatively, before you start coding you can simply fork a copy of [https://repl.it/@andyguest/javaUnitTestTemplate](https://repl.it/@andyguest/javaUnitTestTemplate) which is already set up.
+Alternatively, before you start coding you can simply fork a copy of [https://replit.com/@andyguest/javaUnitTestTemplate](https://replit.com/@andyguest/javaUnitTestTemplate) which is already set up.

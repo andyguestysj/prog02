@@ -134,7 +134,7 @@ personB.phone = "333";
 ### Exercise 1
 1. Colours are often represented using a scheme called ‘RGB’. With RGB we specify how much red, green
 and blue makes up a colour. 
-2. In repl.it create a new Java programme called `RGBColours`
+2. In replit.com create a new Java programme called `RGBColours`
 3. Make a Colour class which can hold red, green and blue ints and use it to create objects to represent three colours:  
 
 |Colour|Red|Green|Blue|
@@ -144,6 +144,6 @@ and blue makes up a colour.
 |Orange|255|165|0|
 
 ### Exercise 2
-1. Fork yourself a copy of **javaPlayers** from [https://repl.it/@andyguest/javaPlayers#Main.java](https://repl.it/@andyguest/javaPlayers#Main.java). There is an **Instructions.md** file that covers the exercise.  
+1. Fork yourself a copy of **javaPlayers** from [https://replit.com/@andyguest/javaPlayers#Main.java](https://replit.com/@andyguest/javaPlayers#Main.java). There is an **Instructions.md** file that covers the exercise.  
 
 

@@ -7,7 +7,7 @@ I noticed some people were struggling over the same issues last week, so here ar
 
 ### Starting A New Program
 
-When you create a new program, in Repl.it or Eclipse, you will be given a project with a `Main.java` file. In that file there will be a `Main` class and a `main()` method. This `main()` method is the entry point for the program when you run it. This should be the only `main()` in your program.  
+When you create a new program, in replit.com or Eclipse, you will be given a project with a `Main.java` file. In that file there will be a `Main` class and a `main()` method. This `main()` method is the entry point for the program when you run it. This should be the only `main()` in your program.  
 
 ### Program Flow
 

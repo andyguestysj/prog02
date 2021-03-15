@@ -100,5 +100,5 @@ void Describe(Racer leading)
 We can use `Leader` like a temporary *reference*. There isn't a specific `Leader` *object*, instead `Leader` becomes a second *reference* to whichever racer is in the lead.  
 
 ### Exercise 1
-1. Fork yourself a copy of **javaPoints** from [https://repl.it/@andyguest/javaPoints#Main.java](https://repl.it/@andyguest/javaPoints#Main.java). There is an **Instructions.md** file that covers the exercise.  
+1. Fork yourself a copy of **javaPoints** from [https://replit.com/@andyguest/javaPoints#Main.java](https://replit.com/@andyguest/javaPoints#Main.java). There is an **Instructions.md** file that covers the exercise.  
 
