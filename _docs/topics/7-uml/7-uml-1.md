@@ -2,8 +2,9 @@
 title: Unified Modelling Language
 permalink: /docs/7-uml-1/
 ---
- 
-Video of this lecture.  
+
+### Video Lecture
+Video of this lecture.   
 
 
 ## Modelling Systems
