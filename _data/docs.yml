@@ -61,6 +61,9 @@
 - title: Repl.it Unit Testing
   docs:
   - unittesting-1
+- title: Assessment
+  docs:
+  - assessment
 - title: Mid-Module Evaluation
   docs:
   - midmod-1
