@@ -7,7 +7,7 @@ permalink: /docs/assessment/
 
 ## Assessment
 
-The assessment brief is [here](../COM4005M-AssessmentBrief-2020-21.doc).
+The assessment brief is [here](../../COM4005M-AssessmentBrief-2020-21.doc).
 
 The deadline is at noon on Tuesday the 4th May 2021.
 
