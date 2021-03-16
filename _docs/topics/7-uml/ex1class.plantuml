@@ -1,0 +1,42 @@
+@startuml
+skinparam monochrome true
+skinparam classAttributeIconSize 0
+skinparam groupInheritance 2
+
+abstract class Sweet {
+  name:String
+  manufacturer:String
+  invented:String
+  eat()
+  {abstract}make()
+}
+class Colour {
+  red:int
+  green:int
+  blue:int
+  setColour(red, green, blue)
+  getColour():int[]
+}
+class Chocolate {
+  cocoa_type:String
+  milk_percentage:float  
+  make()
+}
+class FlavouredSweet {
+  flavour:String
+  colour:Colour
+  make()
+}
+class BoiledSweet {
+  individuallyWrapped:boolean
+}
+class Gummy {
+  shape:String
+  sugared:boolean
+}
+FlavouredSweet "1..*" -- "1..*" Colour
+Sweet <|-- Chocolate
+Sweet <|-- FlavouredSweet
+FlavouredSweet <|-- BoiledSweet
+FlavouredSweet <|-- Gummy
+@enduml
