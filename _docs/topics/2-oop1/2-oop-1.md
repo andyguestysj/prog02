@@ -37,7 +37,7 @@ The *behaviour* consists of methods that are also part of the object.
 
 Classes are how we define the properties and behaviours an object will have. They are a template or blueprint for how to create an object. A class is a set of instruction on how to create items of a specific *concept* by describing the *property names* and *behaviours* that item will possess.
 
-An object is a specific, single item of the concept defined by a class. We call an object an **instance** of an object. Each object is a *distinct* item. We considered the possibility that Bob might have fifty identical balls in his garage, in that case there would be fifty objects of the ball concept. Each would have the same properties but would be distinct from each other.
+An object is a specific, single item of the concept defined by a class. We call an object an **instance** of an class. Each object is a *distinct* item. We considered the possibility that Bob might have fifty identical balls in his garage, in that case there would be fifty objects of the ball concept. Each would have the same properties but would be distinct from each other.
 
 ## Classes and Objects
 
