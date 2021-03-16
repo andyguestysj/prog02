@@ -1,5 +1,5 @@
 ---
-title: More UML Software
+title: UML Software Other
 permalink: /docs/7-uml-7/
 ---
 

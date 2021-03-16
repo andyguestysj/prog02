@@ -1,5 +1,5 @@
 ---
-title: UML Software
+title: UML Software PlantUML
 permalink: /docs/7-uml-6/
 ---
 
