@@ -7,4 +7,4 @@ permalink: /docs/assessment/
 
 ## Assessment
 
-The assessment brief is [here](assessment.md).
+The assessment brief is [here](../assessment.md).
