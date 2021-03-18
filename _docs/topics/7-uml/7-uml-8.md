@@ -16,4 +16,5 @@ You should use PlantUML for these exercises. [https://www.planttext.com/](https:
 ## Exercise 3
 1. Create a Sequence Diagram for the Use Case Diagram developed for exercise 2.
    
-
+## Exercise 4
+1. Revisit last week's Lego exercise and this time use a class diagram to work on it. 
