@@ -1,0 +1,24 @@
+@startuml
+skinparam monochrome true
+skinparam classAttributeIconSize 0
+left to right direction
+:Person:
+package MakeCoffee {
+  (Fill Kettle With Water)  as fillKettle
+  (Boil Kettle) as boilKettle
+  (Kettle Switches Off) as kettleOff
+  (Get Mug) as getMug
+  (Add Sugar To Mug) as sugar
+  (Pour Kettle In To Mug) as pourWater
+  (Add Milk To Mug) as pourMilk
+  (Stir Mug) as stir
+}
+Person --- fillKettle
+Person --- boilKettle
+boilKettle .> kettleOff
+Person --- getMug
+Person --- pourWater
+Person -- sugar
+Person -- pourMilk
+Person -- stir
+@enduml

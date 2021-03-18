@@ -1,0 +1,18 @@
+@startuml
+skinparam monochrome true
+skinparam classAttributeIconSize 0
+
+actor Person
+participant Kettle
+participant Mug
+
+Person -> Kettle : Fill Kettle
+activate Person
+activate Kettle 
+Kettle -> Mug : Pour Water In To Mug
+activate Mug
+deactivate Kettle
+Person -> Mug : Add Sugar
+Person -> Mug : Add Milk
+Person -> Mug : Stir
+@enduml
