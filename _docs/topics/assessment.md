@@ -3,7 +3,7 @@ title: Assessment Brief
 permalink: /docs/assessment/
 ---
 
-[Video Description]
+[Video Description](https://web.microsoftstream.com/video/0a1c00fe-2b99-4213-8dc9-803d82d4807a)
 
 ## Assessment
 
