@@ -58,6 +58,12 @@
   - 7-uml-6
   - 7-uml-7
   - 7-uml-8
+- title: 8. C#
+  docs:
+  - 8-csharp-1
+  - 8-csharp-2
+  - 8-csharp-3
+  - 8-csharp-4
 - title: Repl.it Unit Testing
   docs:
   - unittesting-1
