@@ -4,7 +4,7 @@ permalink: /docs/8-csharp-1/
 ---
 
 ### Video Lecture
-[Video of this lecture]()
+[Video of this lecture](https://web.microsoftstream.com/video/09fdd4a6-4487-4a94-a04e-4e72a7a9a90d)
 
 ## C#
 
