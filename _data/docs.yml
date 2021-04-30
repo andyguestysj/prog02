@@ -64,6 +64,12 @@
   - 8-csharp-2
   - 8-csharp-3
   - 8-csharp-4
+- title: 9. Python
+  docs:
+  - 9-python-1
+  - 9-python-2
+  - 9-python-3
+  - 9-python-4
 - title: Repl.it Unit Testing
   docs:
   - unittesting-1
