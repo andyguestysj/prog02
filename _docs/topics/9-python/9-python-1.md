@@ -4,7 +4,7 @@ permalink: /docs/9-python-1/
 ---
 
 ### Video Lecture
-[Video of this lecture]()
+[Video of this lecture](https://web.microsoftstream.com/video/f46a2b03-6544-4f36-9ef1-b5a10a373382)
 
 ## Python
 
