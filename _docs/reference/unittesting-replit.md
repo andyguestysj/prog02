@@ -1,6 +1,6 @@
 ---
 title: Unit Testing In replit.com
-permalink: /docs/unittesting-1/
+permalink: /docs/unittesting-replit/
 ---
 
 Video of this lecture.  

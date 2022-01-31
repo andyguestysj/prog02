@@ -4,6 +4,19 @@
   - intro-2
   - intro-3
   - intro-4
+
+- title: Reference
+  docs:
+  - vsc
+  - vsc-cloning
+  - replit
+  - git
+  - gitlab-setup
+  - gitlab-save
+  - gitlab-vsc
+  - gitlab-terminal
+  - clang
+
 - title: Lectures
 - title: 1. Review
   docs:
@@ -79,7 +92,4 @@
 - title: Mid-Module Evaluation
   docs:
   - midmod-1
-- title: Reference
-  docs:
-  - replit
-  - git
+
