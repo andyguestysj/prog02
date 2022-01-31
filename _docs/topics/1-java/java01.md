@@ -1,16 +1,23 @@
 ---
-title: Java Recap
-permalink: /docs/review1/
+title: Java 
+permalink: /docs/java01/
 ---
 
 Video of this lecture.  
-[https://web.microsoftstream.com/video/7d1b016f-c7db-4f62-ad1b-f963d40a4dcc](https://web.microsoftstream.com/video/7d1b016f-c7db-4f62-ad1b-f963d40a4dcc)
 
-## <a name="outline"></a>Programming 01 - Module Outline  
+
+## Programming 02 - Module Outline - Getting Started With Java
 
 ### Java
 
-1. Java Basics
+1. Introduction
+  * What is Java?
+  * Why Java?
+  * Java vs Python
+  * How Java Works
+  * The Differences
+  * Recommended Sources
+2. Java Basics
   * Variables
   * Input / Output
   * Basic Maths
@@ -30,8 +37,10 @@ Video of this lecture.
   * Defining, Creating
   * Constructors
   * Private, Public
-7. Testing
-  * Unit Testing
+
+If time allows..
+
+7. Unit Testing
 8. Text Processing
 9. Graphical User Interfaces
 

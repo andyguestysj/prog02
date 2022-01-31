@@ -1,6 +1,6 @@
 ---
 title: Exercises
-permalink: /docs/review3/
+permalink: /docs/java03/
 ---
 
 Each week's course materials will include some learning exercises. These exercises will either be interspersed throughout the material or as a collection of exercises at the end of the material, or both. The exercise format will vary depending on the topic.  

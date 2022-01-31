@@ -1,6 +1,6 @@
 ---
 title: Follow Up
-permalink: /docs/review4/
+permalink: /docs/java04/
 ---
 
 I noticed some people were struggling over the same issues last week, so here are some tips and guidance.  
