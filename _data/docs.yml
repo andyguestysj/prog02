@@ -3,7 +3,6 @@
   - intro-1
   - intro-2
   - intro-3
-  - intro-4
 
 - title: Reference
   docs:
@@ -15,6 +14,7 @@
   - gitlab-save
   - gitlab-vsc
   - gitlab-terminal
+  - gitlens
   - clang
 
 - title: Lectures
