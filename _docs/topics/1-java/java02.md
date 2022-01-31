@@ -111,3 +111,29 @@ In Python each line of code ends when we press return. In Java each line of code
 </code></pre>
     </div>
 </div>
+
+### Recommended Sources
+
+#### Books 
+
+There are number of good books on Java. I'm recommending two that are at opposite ends of the spectrum. **You do not need to buy either of them**, these are simply my recommendations if you want a text book.  
+
+The first is **"Java In Easy Steps"** by Mike McGrath (7th Edition, 2019, In Easy Steps Ltd). This book is a very good introduction to the basics of Java. It is clearly laid out and easy to follow. However it barely even mentions Object Oriented Programming. If you want a nice little book to help you switch from Python to Java this book is my recommendation. As an added bonus you can get it for less than £10 on Amazon.  
+
+The second book is **"Thinking In Java** by Bruce Eckel (4th Edition, 2006, Pearson). This is a beast of a book which, despite being over fifteen years old, covers everything you could ever want to know about Java and Object Oriented Java. This is a big book that will give you back problems if you carry it around and will punch a £50 hole in your wallet. It is available in the library thankfully.  
+
+I also like the **Head First** books. *Head First Java* and *Head First Object-Oriented Analysis and Design* are both good and useful for this module.  
+
+#### Websites 
+
+There are number of good websites out there with Java reference and tutorial material.  
+
+This list is a starting point and by no means exhaustive.  
+
+* [https://www.tutorialspoint.com/java/index.htm](https://www.tutorialspoint.com/java/index.htm)
+* [https://www.programiz.com/java-programming](https://www.programiz.com/java-programming)
+* [https://www.w3schools.com/java/default.asp](https://www.w3schools.com/java/default.asp)
+  
+#### Youtube
+
+There are many good Youtube Java channels. I'll link the good general ones here and ones with specific content on the pages about that content.  
