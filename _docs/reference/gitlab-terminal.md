@@ -1,5 +1,5 @@
 ---
-title: Terminal;GitLab
+title: Terminal GitLab
 permalink: /docs/gitlab-terminal/
 ---
 
