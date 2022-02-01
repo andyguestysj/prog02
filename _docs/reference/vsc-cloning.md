@@ -1,5 +1,5 @@
 ---
-title: VSC Cloning
+title: VSC Cloning Repos
 permalink: /docs/vsc-cloning/
 ---
 

@@ -13,6 +13,7 @@ VSC has many extensions available for it, making it usable as an editor for most
 
 We'll be using the extensions listed below
 * Extension Pack For Java
+* Test Runner for Java
 * Code Runner
 * PlantUML
   
