@@ -36,17 +36,20 @@ The strip down the left hand side of the window (highlighted cyan above) is the 
 
 #### <span style="color:cyan;">Explorer</span>
 
-The Explorer icon ![VSCode Explorer Icon](https://ysjprog02.netlify.app/assets/img/vscexplorer.png) is used to open the Explorer window in the context window. This is shown in the main image above. The Explorer Window allows you to navigate the folders and files of the current project.  
+The Explorer icon is used to open the Explorer window in the context window. This is shown in the main image above. The Explorer Window allows you to navigate the folders and files of the current project.  
 
+![VSCode Explorer Icon](https://ysjprog02.netlify.app/assets/img/vscexplorer.png)  
 #### <span style="color:cyan;">GitLens</span>
 
-The GitLens icon ![VSCode GitLens Icon](https://ysjprog02.netlify.app/assets/img/vscgitlens.png) is used to open the Git window in the context window. This is shown in below. The Git Window allows you to clone (download) git repositorys and upload your own code to your git repositories.  
+The GitLens icon is used to open the Git window in the context window. This is shown in below. The Git Window allows you to clone (download) git repositorys and upload your own code to your git repositories.  
+![VSCode GitLens Icon](https://ysjprog02.netlify.app/assets/img/vscgitlens.png)  
 
-![VSCode GitLens Window](https://ysjprog02.netlify.app/assets/img/vscgit.png)
+![VSCode GitLens Window](https://ysjprog02.netlify.app/assets/img/vscgit.png)  
 
 #### <span style="color:cyan;">Extensions</span>
 
-The Extensions icon ![VSCode GiExtensionstLens Icon](https://ysjprog02.netlify.app/assets/img/vscexticon.png) is used to open the Extensions window in the context window. This is shown in below. This window allows us to add and remove extensions, and to change their settings.    
+The Extensions icon is used to open the Extensions window in the context window. This is shown in below. This window allows us to add and remove extensions, and to change their settings.  
+![VSCode GiExtensionstLens Icon](https://ysjprog02.netlify.app/assets/img/vscexticon.png)  
 
 ![VSCode Extensions Window](https://ysjprog02.netlify.app/assets/img/vscextensions.png)  
 
@@ -78,22 +81,39 @@ You may install any extensions you wish, just don't install too many or VSCode p
 Now we should be able to get some Java running. I've created a Java Hello World application and uploaded it to our GitLab server. You can use VSCode to download a copy of this programme to your machine and run it.  
 
 1. Ensure you have no windows open in VSCode
+
 2. Click the GitLens icon to open the Git/Source Control Window (shown below)
 
 ![VSCode Source Control Window](https://ysjprog02.netlify.app/assets/img/vsc-sc.png)  
 
 3. Click the **Clone Repository** button
+
 4. In the popup window enter the repository link [https://git.ysjcs.net:8888/a.guest/javahelloworld.git](https://git.ysjcs.net:8888/a.guest/javahelloworld.git) - you can type it in or copy and paste it, and press return.
+
 ![VSCode Source Control Window](https://ysjprog02.netlify.app/assets/img/vsc-cl-pop.png)  
+
 5. Select a folder to clone the repository to. Note the process will create a folder called javahelloworld in the folder you select, so select the folder you want to keep all your code for this module in.  
+
 6. Once the repository has been successfully cloned you should see a popup window appear. Click the **Open** button.
+
 ![VSCode Cloned](https://ysjprog02.netlify.app/assets/img/vsc-cloned.png)  
+
 7. You should now see the window below. 
+
 ![VSCode Just Cloned](https://ysjprog02.netlify.app/assets/img/vsc-justcl.png)  
+
 8. In the Explorer window click on **> src** to expand the src folder. Now click on **App.java** to view the code
+
 ![VSCode Hello World](https://ysjprog02.netlify.app/assets/img/vsc-hw.png)  
+
 9. Press the play button to run the code (highlighted in the image above). You should see the **Output** window appear, looking something like the image below.
+
 ![VSCode Output](https://ysjprog02.netlify.app/assets/img/vsc-output.png)  
 
-
 # Setting Up GitLab
+
+GitLab is our source control software. It allows us to upload code we are working on so we can access it anywhere. It also tracks the changes we make to the code, so if we screw up we can go back to an earlier version before the mistakes were made.  
+
+We also use it as a secure place to upload code for assessments.  
+
+Source control is used in industry and much of it is Git based (GitLab or GitHub), it is essential you learn how to use it, not only for your degree but for your future career.  
