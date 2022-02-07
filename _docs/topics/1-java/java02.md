@@ -63,7 +63,7 @@ As previously mentioned, Java is both compiled and interpretted, how does this w
 
 Java code gets compiled down to Java byte code (.class files). The compilation to byte code optimises the original program so it is faster and easier to interpret (though still not as fast as truly compiled code). The Java Virtual Machine knows how to interpret the byte code for the machine it is running on. There are different JVMs for different computers.  
 
-![Java Virtual Machine](https://ysjprog02.netlify.app/assets/img/java-virtual-machine.png)  
+![Java Virtual Machine](https://ysjprog2.netlify.app/assets/img/java-virtual-machine.png)  
 
 This means that you can write a Java application once and be confident it will run on any machine that has its own JVM (or at least as confident as you can be in computing..).  
 

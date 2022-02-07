@@ -16,7 +16,7 @@ Foo g = f;
 g.x = 77;
 ```
 
-![two references to a single object](https://ysjprog02.netlify.app/assets/img/topics/2oop1/simpleobject4.png)
+![two references to a single object](https://ysjprog2.netlify.app/assets/img/topics/2oop1/simpleobject4.png)
 
 `g.x = 77;`  
 * `g` - look in the object labelled `g`  

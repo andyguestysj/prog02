@@ -13,7 +13,7 @@ There is one other keyword we can use `protected`.
 
 If we have the animals hierarchy from the inheritance section - 
 
-![Simple animal family tree](https://ysjprog02.netlify.app/assets/img/topics/5inherit/animaltree.png)
+![Simple animal family tree](https://ysjprog2.netlify.app/assets/img/topics/5inherit/animaltree.png)
 
 and we create a basic `Animal` and an `Ape`, then the `Ape`.
 

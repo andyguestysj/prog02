@@ -11,7 +11,7 @@ A sequence diagram shows, as parallel vertical lines (lifelines), different proc
 
 The example below describes the sequence for logging in to an ATM machine. The user inserts their bank card and the ATM prompts the user to enter their PIN. The user enters the PIN and the ATM connects to the control system to validate the PIN. If it is validated the ATM asks the user what they want to do. If it is not validated the user is informed.
 
-![Use ATM Sequence Diagram Example](https://ysjprog02.netlify.app/assets/img/topics/7uml/UseATM.png)
+![Use ATM Sequence Diagram Example](https://ysjprog2.netlify.app/assets/img/topics/7uml/UseATM.png)
 *Use ATM Sequence Diagram Example* 
 
 ## Sequence Diagram Components
@@ -20,14 +20,14 @@ The example below describes the sequence for logging in to an ATM machine. The u
 
 In Sequence Diagrams Actors are used to represent a user that interacts with a system. 
 
-![Actor](https://ysjprog02.netlify.app/assets/img/topics/7uml/seqactor.png)
+![Actor](https://ysjprog2.netlify.app/assets/img/topics/7uml/seqactor.png)
 *Actor* 
 
 ### Participant
 
 Sometimes used to represent users, participants are mainly used to represent methods, objects or other components of the system.
 
-![Participant](https://ysjprog02.netlify.app/assets/img/topics/7uml/participant.png)
+![Participant](https://ysjprog2.netlify.app/assets/img/topics/7uml/participant.png)
 *Participant* 
 
 The two actor figure/participant boxes represent the start and end of the participation of the actor/participant in the sequence. The dotted line between the two is called the lifeline.
@@ -36,21 +36,21 @@ The two actor figure/participant boxes represent the start and end of the partic
 
 A synchronous message waits for a reply before the interaction can move forward. The sender waits until the receiver has completed the processing of the message. The caller continues only when it knows that the receiver has processed the previous message i.e. it receives a reply message. A large number of calls in object oriented programming are synchronous. We use a solid arrow head to represent a synchronous message.
 
-![Synchronous Messages](https://ysjprog02.netlify.app/assets/img/topics/7uml/synchronous.png)
+![Synchronous Messages](https://ysjprog2.netlify.app/assets/img/topics/7uml/synchronous.png)
 *Synchronous Messages* 
 
 ### Asynchronous Messages
 
  An asynchronous message does not wait for a reply from the receiver. The interaction moves forward irrespective of the receiver processing the previous message or not. We use a lined arrow head to represent an asynchronous message.
 
-![Asynchronous Messages](https://ysjprog02.netlify.app/assets/img/topics/7uml/asynchronous.png)
+![Asynchronous Messages](https://ysjprog2.netlify.app/assets/img/topics/7uml/asynchronous.png)
 *Asynchronous Messages* 
 
 # Sequence Diagram Example
 
 The example below describes the sequence for logging in to an ATM machine. The user inserts their bank card and the ATM prompts the user to enter their PIN. The user enters the PIN and the ATM connects to the control system to validate the PIN. If it is validated the ATM asks the user what they want to do. If it is not validated the user is informed.
 
-![Use ATM Sequence Diagram Example](https://ysjprog02.netlify.app/assets/img/topics/7uml/UseATM.png)
+![Use ATM Sequence Diagram Example](https://ysjprog2.netlify.app/assets/img/topics/7uml/UseATM.png)
 *Use ATM Sequence Diagram Example* 
 
 The dashed vertical lines between the top and bottom of the diagrams show the participant is "alive" for the full sequence. Where a box is shown over the line the participant is considered "active".

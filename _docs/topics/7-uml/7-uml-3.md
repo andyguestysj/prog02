@@ -13,7 +13,7 @@ From an early UML specification :-
 
 An object diagram focuses on the attributes of a set of objects and how those objects relate to each other. For instance, in this object diagram below, all three bank accounts tie back to the bank itself. The class titles show the type of accounts (savings, checking, and credit card) that a given customer could have with this particular bank. The class attributes are different for each account type. For example, the credit card object has a credit limit, while the savings and checking accounts have interest rates.
 
-![Simple Object Diagram](https://ysjprog02.netlify.app/assets/img/topics/7uml/obj1.png)
+![Simple Object Diagram](https://ysjprog2.netlify.app/assets/img/topics/7uml/obj1.png)
 *Simple Object Diagram* 
 
 ## Object Diagram Components
@@ -22,7 +22,7 @@ An object diagram focuses on the attributes of a set of objects and how those ob
 
 In Object diagrams the object name:class, and specific member variable values are shown.  
 
-![Objects in Object Diagrams](https://ysjprog02.netlify.app/assets/img/topics/7uml/obj.png)
+![Objects in Object Diagrams](https://ysjprog2.netlify.app/assets/img/topics/7uml/obj.png)
 *Objects in Object Diagrams* 
 
 ### Links
@@ -42,5 +42,5 @@ The links between objects in an object diagram show connections between objects.
 
 The example below shows a snapshot of the Shape application. There is a single image object that has a list of different shapes. Each shape has a single colour associated with it.  
 
-![Shape Object Diagram](https://ysjprog02.netlify.app/assets/img/topics/7uml/objexample.png)
+![Shape Object Diagram](https://ysjprog2.netlify.app/assets/img/topics/7uml/objexample.png)
 *Shape Object Diagram* 

@@ -7,7 +7,7 @@ You should use PlantUML for these exercises. [https://www.planttext.com/](https:
 
 ## Exercise 1
 1. Recreate the class diagram below. Create
-![Class Diagram Example](https://ysjprog02.netlify.app/assets/img/topics/7uml/ex1class.png)
+![Class Diagram Example](https://ysjprog2.netlify.app/assets/img/topics/7uml/ex1class.png)
 *Class Diagram Example* 
 
 ## Exercise 2
@@ -70,7 +70,7 @@ FlavouredSweet <|-- Gummy
 
 ## Exercise 2
 
-![Use Case Diagram Example](https://ysjprog02.netlify.app/assets/img/topics/7uml/ex2usecase.png)
+![Use Case Diagram Example](https://ysjprog2.netlify.app/assets/img/topics/7uml/ex2usecase.png)
 *Use Case Diagram Example* 
 
 ```console
@@ -102,7 +102,7 @@ Person -- stir
 
 ## Exercise 3
 
-![Sequence Diagram Example](https://ysjprog02.netlify.app/assets/img/topics/7uml/ex3sequence.png)
+![Sequence Diagram Example](https://ysjprog2.netlify.app/assets/img/topics/7uml/ex3sequence.png)
 *Sequence Diagram Example* 
 
 ```console

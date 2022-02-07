@@ -9,7 +9,7 @@ The Class Diagram shows the classes involved in a system (or a part of that syst
 
 ## A Simple Class Diagram  
 
-![A simple class diagram](https://ysjprog02.netlify.app/assets/img/topics/7uml/class1.jpg)
+![A simple class diagram](https://ysjprog2.netlify.app/assets/img/topics/7uml/class1.jpg)
 *Simple Class Diagram*  
 
 The diagram shows four classes. 
@@ -31,7 +31,7 @@ Remember that the *`Person`* class is abstract. There won't be *any* objects cre
 ## Class Diagram 
 
 ### Class Symbol
-![A class in UML](https://ysjprog02.netlify.app/assets/img/topics/7uml/class-components.png)
+![A class in UML](https://ysjprog2.netlify.app/assets/img/topics/7uml/class-components.png)
 *A class in UML*  
 
 In UML a class is indicated by a box with three sections. From top to bottom these sections are.
@@ -50,14 +50,14 @@ In addition the accessibility of member variables and class methods may be shown
 |#|Protected|
 |~|Package|
 
-![Class Accessibility](https://ysjprog02.netlify.app/assets/img/topics/7uml/class-components-access.png)
+![Class Accessibility](https://ysjprog2.netlify.app/assets/img/topics/7uml/class-components-access.png)
 *Class Accessibility*  
 
 ### Class Relationship
 
 The lines between classes indicate different types of relationships. 
 
-![Class Relationships](https://ysjprog02.netlify.app/assets/img/topics/7uml/uml-class-relation-symbols.png)
+![Class Relationships](https://ysjprog2.netlify.app/assets/img/topics/7uml/uml-class-relation-symbols.png)
 *Class Relationships*  
 
 (Definitions from Wikipedia)
@@ -74,21 +74,21 @@ There are four different types of association: bi-directional, uni-directional, 
 
 For instance, a flight class is associated with a plane class bi-directionally. Association represents the static relationship shared among the objects of two classes.
 
-![Association](https://ysjprog02.netlify.app/assets/img/topics/7uml/association.png)
+![Association](https://ysjprog2.netlify.app/assets/img/topics/7uml/association.png)
 *Association* 
 
 #### Aggregation
 
 Aggregation is a variant of the "has a" association relationship; aggregation is more specific than association. It is an association that represents a part-whole or part-of relationship. As shown in the image, a Professor 'has a' class to teach. As a type of association, an aggregation can be named and have the same adornments that an association can. However, an aggregation may not involve more than two classes; it must be a binary association. Furthermore, there is hardly a difference between aggregations and associations during implementation, and the diagram may skip aggregation relations altogether
 
-![Aggregation](https://ysjprog02.netlify.app/assets/img/topics/7uml/aggregation.png)
+![Aggregation](https://ysjprog2.netlify.app/assets/img/topics/7uml/aggregation.png)
 *Aggregation* 
 
 #### Composition
 
 The UML representation of a composition relationship shows composition as a filled diamond shape on the containing class end of the lines that connect contained class(es) to the containing class.
 
-![Composition](https://ysjprog02.netlify.app/assets/img/topics/7uml/composition.png)
+![Composition](https://ysjprog2.netlify.app/assets/img/topics/7uml/composition.png)
 *Composition* 
 
 Two class diagrams. The diagram on the right shows Composition between two classes: A Car has exactly up to four wheels, and the wheels are part of one Car. Wheels cannot exist as separate parts, detached from a specific car. 
@@ -99,7 +99,7 @@ The diagram on the left shows Aggregation between two classes: A Pond has zero o
 
 Inheritance is indicated by a line with a triangle at one end. The triangle indicates the parent class. 
 
-![Inheritance](https://ysjprog02.netlify.app/assets/img/topics/7uml/inheritance.png)
+![Inheritance](https://ysjprog2.netlify.app/assets/img/topics/7uml/inheritance.png)
 *Inheritance* 
 
 #### Multiplicity
@@ -122,7 +122,7 @@ The UML representation of an association is a line connecting the two associated
 
 Looking back at the shape example we have used previously, we might come up with a class diagram like this. 
 
-![Shape Class Diagram](https://ysjprog02.netlify.app/assets/img/topics/7uml/shape.png)
+![Shape Class Diagram](https://ysjprog2.netlify.app/assets/img/topics/7uml/shape.png)
 *Shape Class Diagram* 
 
 I've added in an `Image` class which stores a list of `Shape` objects that make up an image.
