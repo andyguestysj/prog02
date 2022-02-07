@@ -86,7 +86,7 @@ In Python each line of code ends when we press return. In Java each line of code
     </div>
     <div class="col-md-6">
     <B>Java</B>
-      <pre><code class="language-java">for (int x; x=2; x<6)
+      <pre><code class="language-java">for (int x=2; x<6; x++)
 {
   System.out.println(x);
 }
@@ -99,12 +99,12 @@ In Python each line of code ends when we press return. In Java each line of code
 <div class="row">
     <div class="col-md-6">
     <B>Java</B>
-      <pre><code class="language-java">for (int x; x=2; x<6){System.out.println(x);}
+      <pre><code class="language-java">for (int x=2; x<6; x++){System.out.println(x);}
 </code></pre>
     </div>
     <div class="col-md-6">
     <B>Java</B>
-      <pre><code class="language-java">for (int x; x=2; x<6)
+      <pre><code class="language-java">for (int x=2; x<6; x++)
      {
                  System.out.println(x);
 }
