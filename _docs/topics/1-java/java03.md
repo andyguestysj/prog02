@@ -18,7 +18,7 @@ Where is it?
 
 The VSCode window will look something like this :-
 
-![VSCode Interface](https://ysjprog02.netlify.app/assets/img/vscwindow-col.png)  
+![VSCode Interface](https://ysjprog2.netlify.app/assets/img/vscwindow-col.png)  
 
 I've added coloured boxes to identify different areas of the interface.  
 
@@ -38,20 +38,20 @@ The strip down the left hand side of the window (highlighted cyan above) is the 
 
 The Explorer icon is used to open the Explorer window in the context window. This is shown in the main image above. The Explorer Window allows you to navigate the folders and files of the current project.  
 
-![VSCode Explorer Icon](https://ysjprog02.netlify.app/assets/img/vscexplorer.png)  
+![VSCode Explorer Icon](https://ysjprog2.netlify.app/assets/img/vscexplorer.png)  
 #### <span style="color:cyan;">GitLens</span>
 
 The GitLens icon is used to open the Git window in the context window. This is shown in below. The Git Window allows you to clone (download) git repositorys and upload your own code to your git repositories.  
-![VSCode GitLens Icon](https://ysjprog02.netlify.app/assets/img/vscgitlens.png)  
+![VSCode GitLens Icon](https://ysjprog2.netlify.app/assets/img/vscgitlens.png)  
 
-![VSCode GitLens Window](https://ysjprog02.netlify.app/assets/img/vscgit.png)  
+![VSCode GitLens Window](https://ysjprog2.netlify.app/assets/img/vscgit.png)  
 
 #### <span style="color:cyan;">Extensions</span>
 
 The Extensions icon is used to open the Extensions window in the context window. This is shown in below. This window allows us to add and remove extensions, and to change their settings.  
-![VSCode GiExtensionstLens Icon](https://ysjprog02.netlify.app/assets/img/vscexticon.png)  
+![VSCode GiExtensionstLens Icon](https://ysjprog2.netlify.app/assets/img/vscexticon.png)  
 
-![VSCode Extensions Window](https://ysjprog02.netlify.app/assets/img/vscextensions.png)  
+![VSCode Extensions Window](https://ysjprog2.netlify.app/assets/img/vscextensions.png)  
 
 This window is divided in to three sections. At the top of the window is a search bar that you can use to search for extensions. When you search for an extension the two sections below are replaced by the search results. If you wish to install an extension simply click on the blue **Install** button under the extension. You may need to reload after installing an extension.  
 
@@ -84,31 +84,31 @@ Now we should be able to get some Java running. I've created a Java Hello World 
 
 * Click the GitLens icon to open the Git/Source Control Window (shown below)
 
-![VSCode Source Control Window](https://ysjprog02.netlify.app/assets/img/vsc-sc.png)  
+![VSCode Source Control Window](https://ysjprog2.netlify.app/assets/img/vsc-sc.png)  
 
 * Click the **Clone Repository** button
 
 * In the popup window enter the repository link [https://git.ysjcs.net:8888/a.guest/javahelloworld.git](https://git.ysjcs.net:8888/a.guest/javahelloworld.git) - you can type it in or copy and paste it, and press return.
 
-![VSCode Source Control Window](https://ysjprog02.netlify.app/assets/img/vsc-cl-pop.png)  
+![VSCode Source Control Window](https://ysjprog2.netlify.app/assets/img/vsc-cl-pop.png)  
 
 * Select a folder to clone the repository to. Note the process will create a folder called javahelloworld in the folder you select, so select the folder you want to keep all your code for this module in.  
 
 * Once the repository has been successfully cloned you should see a popup window appear. Click the **Open** button.
 
-![VSCode Cloned](https://ysjprog02.netlify.app/assets/img/vsc-cloned.png)  
+![VSCode Cloned](https://ysjprog2.netlify.app/assets/img/vsc-cloned.png)  
 
 * You should now see the window below. 
 
-![VSCode Just Cloned](https://ysjprog02.netlify.app/assets/img/vsc-justcl.png)  
+![VSCode Just Cloned](https://ysjprog2.netlify.app/assets/img/vsc-justcl.png)  
 
 * In the Explorer window click on **> src** to expand the src folder. Now click on **App.java** to view the code
 
-![VSCode Hello World](https://ysjprog02.netlify.app/assets/img/vsc-hw.png)  
+![VSCode Hello World](https://ysjprog2.netlify.app/assets/img/vsc-hw.png)  
 
 * Press the play button to run the code (highlighted in the image above). You should see the **Output** window appear, looking something like the image below.
 
-![VSCode Output](https://ysjprog02.netlify.app/assets/img/vsc-output.png)  
+![VSCode Output](https://ysjprog2.netlify.app/assets/img/vsc-output.png)  
 
 # Getting Started With GitLab
 
@@ -122,7 +122,7 @@ Source control is used in industry and much of it is Git based (GitLab or GitHub
   
 * You should see something like this, but with less repositories :-)
 
-![VSCode GitLab](https://ysjprog02.netlify.app/assets/img/vsc-git1.png)  
+![VSCode GitLab](https://ysjprog2.netlify.app/assets/img/vsc-git1.png)  
 
 Every repository you create will be stored here. 
 
