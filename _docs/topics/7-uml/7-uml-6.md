@@ -22,7 +22,7 @@ This page assumes you are using PlantUML at the [https://www.planttext.com/](htt
 
 PlantText has a simple interface.  
 
-![PlantText Interface](https://ysjprog2.netlify.app/assets/img/topics/7uml/planttext.png)
+![PlantText Interface](https://ysjprog02.netlify.app/assets/img/topics/7uml/planttext.png)
 *PlantText Interface* 
 
 The large area on the left is used to enter the PlantUML script. On the right a live update preview of the diagram is shown. 
@@ -75,7 +75,7 @@ class className
   </div>
   <div class="col-md-6" markdown="1">  
  
- ![Basic](https://ysjprog2.netlify.app/assets/img/topics/7uml/basicclass.png)
+ ![Basic](https://ysjprog02.netlify.app/assets/img/topics/7uml/basicclass.png)
 *Basic Class* 
 
   </div>  
@@ -97,7 +97,7 @@ class className {
   </div>
   <div class="col-md-6" markdown="1">  
  
- ![Class with variables and methods](https://ysjprog2.netlify.app/assets/img/topics/7uml/fullclass.png)
+ ![Class with variables and methods](https://ysjprog02.netlify.app/assets/img/topics/7uml/fullclass.png)
 *Class with variables and methods* 
 
   </div>  
@@ -158,7 +158,7 @@ Person <|-- Lecturer
   </div>
   <div class="col-md-6" markdown="1">  
  
- ![Inheritance](https://ysjprog2.netlify.app/assets/img/topics/7uml/inheritance.png)
+ ![Inheritance](https://ysjprog02.netlify.app/assets/img/topics/7uml/inheritance.png)
 *Inheritance* 
 
   </div>  
@@ -166,7 +166,7 @@ Person <|-- Lecturer
 
 ### Class Diagram Example
 
- ![Inheritance](https://ysjprog2.netlify.app/assets/img/topics/7uml/shape.png)
+ ![Inheritance](https://ysjprog02.netlify.app/assets/img/topics/7uml/shape.png)
 *Inheritance*  
 
 ```console
@@ -224,7 +224,7 @@ Shape::colour "1" - "1" Colour
 
 Object diagrams are very similar to class diagrams.
 
- ![Shape Object Diagram](https://ysjprog2.netlify.app/assets/img/topics/7uml/objexample.png)
+ ![Shape Object Diagram](https://ysjprog02.netlify.app/assets/img/topics/7uml/objexample.png)
 *Shape Object Diagram* 
 
 ```console
@@ -303,7 +303,7 @@ image -- tri2
 
 ## Use Case Diagrams
 
- ![Use Case ATM Example](https://ysjprog2.netlify.app/assets/img/topics/7uml/ucexample.png)
+ ![Use Case ATM Example](https://ysjprog02.netlify.app/assets/img/topics/7uml/ucexample.png)
 *Use Case ATM Example* 
 
 ```console
@@ -338,7 +338,7 @@ Transaction --- Bank
 
 ## Sequence Diagrams
 
- ![Sequence ATM Example](https://ysjprog2.netlify.app/assets/img/topics/7uml/UseATM.png)
+ ![Sequence ATM Example](https://ysjprog02.netlify.app/assets/img/topics/7uml/UseATM.png)
 *Sequence ATM Example* 
 
 ```console

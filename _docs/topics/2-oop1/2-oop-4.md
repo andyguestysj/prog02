@@ -82,7 +82,7 @@ void myGreatMethod (Frobozz g)
 
 The *references* `f` and `g` are completely separate from each other but store the same *reference*.  
 
-![passing a reference to a method](https://ysjprog2.netlify.app/assets/img/topics/2oop1/passref.png)
+![passing a reference to a method](https://ysjprog02.netlify.app/assets/img/topics/2oop1/passref.png)
 
 So passing a *reference* is just like passing a *variable* right? Unfortunately no, there is one big difference. Remember what happened before when we had two references to the same object? When you use a *reference* to change an *object* **you change the *object***.
 

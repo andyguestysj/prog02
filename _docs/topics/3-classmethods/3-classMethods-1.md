@@ -34,7 +34,7 @@ A number of things happened in one line `Foo f = new Foo();`
 * `Foo()` - using a plan (or *class*) called Foo  
 * `f = ..` - attach the *reference* to the *object*  
 
-![f points to object](https://ysjprog2.netlify.app/assets/img/topics/2oop1/simpleobject1.png)  
+![f points to object](https://ysjprog02.netlify.app/assets/img/topics/2oop1/simpleobject1.png)  
 
 ### Multiple Objects Of The Same Class
 
@@ -48,7 +48,7 @@ g.x = 66;
 g.y = 25;
 ```
 
-![g.y is updated](https://ysjprog2.netlify.app/assets/img/topics/2oop1/simpleobject3.png)
+![g.y is updated](https://ysjprog02.netlify.app/assets/img/topics/2oop1/simpleobject3.png)
 
 ### Multiple References To A Single Object
 
@@ -63,4 +63,4 @@ Foo g = f;
 g.x = 77;
 ```
 
-![two references to a single object](https://ysjprog2.netlify.app/assets/img/topics/2oop1/simpleobject4.png)
+![two references to a single object](https://ysjprog02.netlify.app/assets/img/topics/2oop1/simpleobject4.png)

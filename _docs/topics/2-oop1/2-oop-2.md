@@ -26,7 +26,7 @@ A number of things happened in one line `Foo f = new Foo();`
 
 Previously you've thought of `f` **being** the *object*. I'd like you to start thinking now about `f` and the *object* being two separate things. A *reference* called `f` is created in one place in memory and it *refers* to the *object* which is stored somewhere else in memory.  
 
-![f points to object](https://ysjprog2.netlify.app/assets/img/topics/2oop1/simpleobject1.png)
+![f points to object](https://ysjprog02.netlify.app/assets/img/topics/2oop1/simpleobject1.png)
 
 Above we have `f` the *reference* and the *object* as separate location in memory. We say that `f` *refers to* or is a *reference to* the object. 
 
@@ -54,7 +54,7 @@ Once again a number of things happened in one line `f.y = 9;`
 * `.y` - find its variable `y`  
 * `= 9;` - and set it to 9
 
-![f.y is updated](https://ysjprog2.netlify.app/assets/img/topics/2oop1/simpleobject2.png)
+![f.y is updated](https://ysjprog02.netlify.app/assets/img/topics/2oop1/simpleobject2.png)
 
 ### Reading The Object
 
@@ -77,7 +77,7 @@ Once again a number of things happened in one line `System.out.println(f.x);`
 * `.y` - get its variable `y`  
 * `System.out.println()` - and print it out
 
-![f.y is read](https://ysjprog2.netlify.app/assets/img/topics/2oop1/simpleobject2.png)
+![f.y is read](https://ysjprog02.netlify.app/assets/img/topics/2oop1/simpleobject2.png)
 
 ### Multiple Objects Of The Same Class
 
@@ -91,7 +91,7 @@ g.x = 66;
 g.y = 25;
 ```
 
-![g.y is updated](https://ysjprog2.netlify.app/assets/img/topics/2oop1/simpleobject3.png)
+![g.y is updated](https://ysjprog02.netlify.app/assets/img/topics/2oop1/simpleobject3.png)
 
 `g.y = 25;`  
 * `g` - look in the object labelled `g`  

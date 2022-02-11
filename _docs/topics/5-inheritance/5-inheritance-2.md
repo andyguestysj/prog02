@@ -129,7 +129,7 @@ It is starting to get a bit clunky. Say we want to add a picture of the animal t
 
 Fortunately object orientation offers us a solution called **inheritance**. Inheritance lets us set up a family tree like structure of classes.
 
-![Simple animal family tree](https://ysjprog2.netlify.app/assets/img/topics/5inherit/animaltree.png)
+![Simple animal family tree](https://ysjprog02.netlify.app/assets/img/topics/5inherit/animaltree.png)
 
 We can create an `Animal` *class* as before, but when we create our new classes we can let them **inherit** *member variables* and *class methods* from the `Animal` class.  
 

@@ -9,7 +9,7 @@ The lecture for this module is on Monday mornings from 10am - 11.30am. Everyone 
 
 The lab sessions for this module are on Thursdays. You have been assigned to a lab from 1000 - 1200 or from 1300-1500.
 
-The lecture material and lab exercises will be posted to the module website [https://ysjprog2.netlify.app/](https://ysjprog2.netlify.app/). 
+The lecture material and lab exercises will be posted to the module website [https://ysjprog02.netlify.app/](https://ysjprog02.netlify.app/). 
 
 The Moodle page will contain a link to this website. 
 

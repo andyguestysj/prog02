@@ -11,7 +11,7 @@ Unit testing in replit.com is the same as any other environment, it is just set 
 
 1. Create your repl (project) as usual.
 2. Click on the **Packages** icon at the left had of the screen. It looks like a little cube. 
-![Package Icon](https://ysjprog2.netlify.app/assets/img/package.png)
+![Package Icon](https://ysjprog02.netlify.app/assets/img/package.png)
 3. In 'search for a pack' type **org.hamcrest**
 4. Click on **org.hamcrest:hamcrest    2.2**
 5. Click on the **+** symbol to install the package.
