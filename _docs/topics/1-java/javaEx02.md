@@ -24,20 +24,24 @@ Since we have the `Project Manager For Java` extension installed this is a painl
 
 ### Exercise 2 - Variables
 
-1. Using your project from Exercise 1 create the following variables and output them
-   1. An integer called `daysPerWeek` with a value of 7
-   2. An integer called `numberOfWeeks` with a value of 6
-   3. An integer called `totalDays` that uses the previous two variables to calculate the number of days in that many weeks.
-   4. A true or false variable called `onHoliday` that is set to false. For this you should output a string that says if you are on holiday or not
-   5. A real number called `approxPI` that is set to 3.14. Use it to calculate and output the circumference of a circle with a radius of 3. (Use circumference = 2 * PI * radious)
-   6. Strings called
-      1. `greetingString` with a value of "Hello"
-      2. `introductionString` with a value of "My name is Inigo Montoya"
-      3. `reminderString` with a value of "You killed my father"
-      4. `threatString` with a value of "Prepare to die!"
-      5. and then use them to output "Hello, My name is Inigo Montoya, You killed my father, Prepare to die!"
+Extend your previous code
+
+
+1. An integer called `daysPerWeek` with a value of 7
+2. An integer called `numberOfWeeks` with a value of 6
+3. An integer called `totalDays` that uses the previous two variables to calculate the number of days in that many weeks.
+4. A true or false variable called `onHoliday` that is set to false. For this you should output a string that says if you are on holiday or not
+5. A real number called `approxPI` that is set to 3.14. Use it to calculate and output the circumference of a circle with a radius of 3. (Use circumference = 2 * PI * radious)
+6. Strings called
+  1. `greetingString` with a value of "Hello"
+  2. `introductionString` with a value of "My name is Inigo Montoya"
+  3. `reminderString` with a value of "You killed my father"
+  4. `threatString` with a value of "Prepare to die!"
+  5. and then use them to output "Hello, My name is Inigo Montoya, You killed my father, Prepare to die!"
      
 ### Exercise 3 - Comments
+
+Extend your previous code
 
 1. Add a block comment to the top of your project explaining that these are the exercises for Week 2, the date they were done (i.e. today) and who made them (i.e. you)
 2. Add a comment to the end of each variable created for Exercise 2 the shows the exercise and step number. So on the line you create `daysPerWeek` you should have a comment `// Ex 1.1`
@@ -79,10 +83,10 @@ Extend your previous code
 
 Extend your previous code
 
-1. Move your code for exercise 1 parts 1 to 4 to a method called `countDays`. This method should have no parameters and no return value. It should output the value calculated in step 4. Call this method from `main` and ensure it works correctly
-2. Move your code from exercise 1 part 5 to a method called `circumference`. Call this method from `main` and ensure it works correctly
+1. Move your code for exercise 2 parts 1 to 4 to a method called `countDays`. This method should have no parameters and no return value. It should output the value calculated in step 4. Call this method from `main` and ensure it works correctly
+2. Move your code from exercise 2 part 5 to a method called `circumference`. Call this method from `main` and ensure it works correctly
 3. Add an integer parameter called `radius` to `circumference` and use it to calculate teh circumference
-4. Move your code from Exercise 1.6 and Exercise 4 (the Inigo Montoya strings stuff) to a method called `inigoSpeech`. This method should have a parameter of `numFingers` that it uses instead of `fingersOnRightHand`. It should also return the string rather than outputting it directly
+4. Move your code from Exercise 2.6 and Exercise 4 (the Inigo Montoya strings stuff) to a method called `inigoSpeech`. This method should have a parameter of `numFingers` that it uses instead of `fingersOnRightHand`. It should also return the string rather than outputting it directly
 5. Call the `inigoSpeech` method from `main` and store the results in a string. Output the string. Test your code to ensure it works.
 
 ### Exercise 9 - isItALeapYear()
