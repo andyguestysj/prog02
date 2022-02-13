@@ -27,6 +27,12 @@
   docs:
   - java04
   - java05
+  - java06
+  - java07
+  - java08
+  - java09
+  - java10
+  - javaEx02
 - title: 2. Classes & Objects
   docs:
 #  - 2-oop-1

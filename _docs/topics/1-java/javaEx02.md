@@ -35,5 +35,12 @@ Since we have the `Project Manager For Java` extension installed this is a painl
       4. `threatString` with a value of "Prepare to die!"
       5. and then use them to output "Hello, My name is Inigo Montoya, You killed my father, Prepare to die!"
      
-### Exercise 3 - 
+### Exercise 3 - Comments
+
+1. Add a block comment to the top of your project explaining that these are the exercises for Week 2, the date they were done (i.e. today) and who made them (i.e. you)
+2. Add a comment to the end of each variable created for Exercise 2 the shows the exercise and step number. So on the line you create `daysPerWeek` you should have a comment `// Ex 1.1`
+3. Test your code to make sure it still works
+
+
+
 
