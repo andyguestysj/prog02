@@ -10,4 +10,5 @@ permalink: /docs/java04/
 * Operators
 * Branching (if/then etc)
 * Loops
+* Methods
 

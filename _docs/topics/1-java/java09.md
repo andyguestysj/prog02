@@ -5,7 +5,7 @@ permalink: /docs/java09/
 
 Without branching we can only write the simplest of applications.  
 
-### if
+### if then else
 
 The simplest form of branching is the `if` statement.
 
