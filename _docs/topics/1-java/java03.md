@@ -1,5 +1,5 @@
 ---
-title: Exercises
+title: Wk 3 Exercises
 permalink: /docs/java03/
 ---
 
@@ -156,8 +156,10 @@ Every repository you create will be stored here.
   3. Paste the URL of your repository - if you've followed the instructions correctly you should be able to just paste it
   4. Enter the name origin
   5. Click on the … in the side bar.
-  6. Select Push
-  7. Click OK if a message box pops up
+  6. Select Commit and enter a commit message
+  7. Click on the … in the side bar.
+  8. Select Push
+  9. Click OK if a message box pops up
 
 You may need to enter your username and your (computing) password in this process.  
 

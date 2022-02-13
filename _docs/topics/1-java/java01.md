@@ -3,7 +3,7 @@ title: Java
 permalink: /docs/java01/
 ---
 
-Video of this lecture.  
+Video of this lecture [here](https://web.microsoftstream.com/video/c3aec27a-e6d3-4bd4-a8ed-2594e188d901).  
 
 
 ## Programming 02 - Module Outline - Getting Started With Java

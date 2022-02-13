@@ -23,7 +23,10 @@
   - java01  
   - java02
   - java03
+- title: 1. Java Programming
+  docs:
   - java04
+  - java05
 - title: 2. Classes & Objects
   docs:
 #  - 2-oop-1
