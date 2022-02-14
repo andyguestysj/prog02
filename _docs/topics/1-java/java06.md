@@ -56,7 +56,7 @@ Java provides us with a selection of basic variable types.
 |---|---|---|  
 |**int**|integer value (32 bits)| -2<sup>31</sup> to 2<sup>31</sup>-1|
 |**float**|real value (32 bits)| huge! |
-|**boolead**|boolean value (1 bit)| `true` or `false` |
+|**boolean**|boolean value (1 bit)| `true` or `false` |
 |**char**|single character (16 bits)| |
 
 And because we sometimes want to store a wider range of numbers, or sometimes want to use a smaller range to use less memory, the following are also available.   
@@ -119,7 +119,7 @@ else{
 |---|---|---|  
 |**int**|integer value (32 bits)| -2<sup>31</sup> to 2<sup>31</sup>-1|
 |**float**|real value (32 bits)| huge! |
-|**boolead**|boolean value (1 bit)| `true` or `false` |
+|**boolean**|boolean value (1 bit)| `true` or `false` |
 |**char**|single character (16 bits)| |
 |**short**|integer value (16 bits) | -32,768 to 32,767|
 |**long**|integer value (64 bits)| -2<sup>63</sup> to 2<sup>63</sup>-1|
