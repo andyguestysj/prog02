@@ -4,7 +4,7 @@ permalink: /docs/2-oop-1/
 ---
 
 Video of this lecture.  
-[https://web.microsoftstream.com/video/2223e876-aa02-4c27-9db7-f8e7b3bd5494](https://web.microsoftstream.com/video/2223e876-aa02-4c27-9db7-f8e7b3bd5494)  
+ 
 ## Objects & Classes
 
 Java is an object-oriented programming language (OOP). In Programming 01 you were briefly introduced to objects and classes, these are the core of object oriented programming. This module will cover OOP in much more detail and examine the fundamental concepts and features that make OOP so powerful.  
