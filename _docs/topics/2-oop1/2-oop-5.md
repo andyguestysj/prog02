@@ -18,19 +18,19 @@ and blue makes up a colour.
 
 ### Exercise 2
 1. First install the VSCode Extension called `Markdown All In One`, this will allow you to read formatted markdown files.
-2. Clone yourself a copy of **javaPlayers** from (https://github.com/andyguestysj/javaPlayers). 
+2. Clone yourself a copy of **javaPlayers** from [https://github.com/andyguestysj/javaPlayers](https://github.com/andyguestysj/javaPlayers). 
 3. There is an **Instructions.md** file that covers the exercise.  Open this file and press `Ctrl + Shift + V`. You should see a formatted instruction file. 
 4. Complete the instructions for this exercise
 
 ### Exercise 3
-1. Clone yourself a copy of **javaPoints** from (https://github.com/andyguestysj/javaPoints). There is an **Instructions.md** file that covers the exercise.  
+1. Clone yourself a copy of **javaPoints** from [https://github.com/andyguestysj/javaPoints](https://github.com/andyguestysj/javaPoints). There is an **Instructions.md** file that covers the exercise.  
 
 ## Exercise 4
-1. Clone yourself a copy of **javaCircles** from (https://github.com/andyguestysj/javaCircles). There is an **Instructions.md** file that covers the exercise. 
+1. Clone yourself a copy of **javaCircles** from [https://github.com/andyguestysj/javaCircles](https://github.com/andyguestysj/javaCircles). There is an **Instructions.md** file that covers the exercise. 
 
 ## Exercise 5
-1. Clone yourself a copy of **javaWaterFight** from (https://github.com/andyguestysj/javaWaterFightSolution). There is an **Instructions.md** file that covers the exercise. 
+1. Clone yourself a copy of **javaWaterFight** from [https://github.com/andyguestysj/javaWaterFightSolution](https://github.com/andyguestysj/javaWaterFightSolution). There is an **Instructions.md** file that covers the exercise. 
 
 ## Exercise 6
-1. Clone yourself a copy of **javaThreePintsAtLunchtime** from (https://github.com/andyguestysj/javaThreePintsAtLunchtimeSolution). There is an **Instructions.md** file that covers the exercise. 
+1. Clone yourself a copy of **javaThreePintsAtLunchtime** from [https://github.com/andyguestysj/javaThreePintsAtLunchtimeSolution](https://github.com/andyguestysj/javaThreePintsAtLunchtimeSolution). There is an **Instructions.md** file that covers the exercise. 
 
