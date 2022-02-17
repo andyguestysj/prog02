@@ -33,14 +33,15 @@
   - java09
   - java10
   - java11
+  - java12
   - javaEx02
 - title: 2. Classes & Objects
   docs:
-#  - 2-oop-1
-#  - 2-oop-2
-#  - 2-oop-3
-#  - 2-oop-4
-#  - 2-oop-5
+  - 2-oop-1
+  - 2-oop-2
+  - 2-oop-3
+  - 2-oop-4
+  - 2-oop-5
 - title: 3. Class Methods
   docs:
 #  - 3-classMethods-1
