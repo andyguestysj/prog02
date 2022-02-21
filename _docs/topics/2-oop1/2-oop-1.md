@@ -3,7 +3,7 @@ title: Object Oriented Programming
 permalink: /docs/2-oop-1/
 ---
 
-Video of this lecture.  
+[Video of this lecture](https://web.microsoftstream.com/video/0365ce0b-8a34-49b4-accc-fb682910ba61).  
  
 ## Objects & Classes
 
