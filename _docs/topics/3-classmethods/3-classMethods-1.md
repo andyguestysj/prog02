@@ -3,7 +3,7 @@ title: Recap
 permalink: /docs/3-classMethods-1/
 ---
 
-Video of this lecture.  [https://web.microsoftstream.com/video/6791572e-6620-48e6-ad4d-fbbf8b3d694a](https://web.microsoftstream.com/video/6791572e-6620-48e6-ad4d-fbbf8b3d694a)
+Video of this lecture.  
 
 
 ## Recap
