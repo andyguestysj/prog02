@@ -33,14 +33,18 @@ class Foo{
   }
 }
 
-Foo f = new Foo();
-f.x = 42;
-f.y = “Hello”;
-System.out.println(f.y);
-f.bye();
-System.out.println(f.y);
+void main() {
+  Foo f = new Foo();
+  f.x = 42;
+  f.y = “Hello”;
+  System.out.println(f.y);
+  f.bye();
+  System.out.println(f.y);
+}
 ```
+
 produces  
+
 ```console
 Hello
 Goodbye
@@ -78,14 +82,14 @@ class Foo{
     return w + x + y + z;
   }
   
-  int broken(int z) {
+  int brokenIsFixed(int z) {
     int w = 6;
     return w + x + y + z;
   }
 }
 ```
 
-The *parameter z* and the *method variable w* in `sum()` and completely different variables from the *parameter z* and the *method variable w* in `broken()`. Changing `w` in `sum()` has no effect on the `w` in `broken()`. *Member variables* `x` and `y` have a scope which encompasses both methods so they are the same `x` and `y` in both.  
+The *parameter z* and the *method variable w* in `sum()` and completely different variables from the *parameter z* and the *method variable w* in `brokenIsFixed()`. Changing `w` in `sum()` has no effect on the `w` in `brokenIsFixed()`. *Member variables* `x` and `y` have a scope which encompasses both methods so they are the same `x` and `y` in both.  
 
 However there can be some ambiguity..
 
@@ -131,7 +135,9 @@ void main() {
   f.setX(17);
 }
 ```
+
 will output  
+
 ```console
 17
 42
@@ -157,7 +163,9 @@ void main() {
   f.setX(17);
 }
 ```
+
 will output  
+
 ```console
 9
 9

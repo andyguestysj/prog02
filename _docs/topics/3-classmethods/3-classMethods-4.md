@@ -79,7 +79,9 @@ void main()
   p.set(4.2, 5.2);
 }
 ```
+
 becomes
+
 ```java
 class Point{
   double x;
@@ -130,10 +132,11 @@ Just to add a little more confusion we can have `Point(int x, String name)` and 
 So, basically, if you imagine stripping out the parameter names `Point(double a, double b)` becomes `Point(double double)` and we already have one constructor with those types in that order. Simple!  
 
 ## Polymorphism
+
 This ability to have multiple methods is called **overloading**. We *overload* the *method name* with *multiple methods*. This can be done with any method, not just constructors
 
 Overloading methods is part of a concept called **polymorphism**.
-* **poly** – many
-* **morph** – forms
+* **poly** – many  
+* **morph** – forms  
 
 Polymorphism is one of the key features of object oriented programming.  

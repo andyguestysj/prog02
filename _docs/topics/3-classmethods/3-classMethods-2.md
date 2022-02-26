@@ -36,9 +36,10 @@ void fred(int x) {
 
 	for (int i=0; i<10; i++) {
     int j = 10;
-	  // What variables can I use here?
+    // What variables can I use here?
   }
-	// How about here?
+	
+  // How about here?
 
 }
 ```
