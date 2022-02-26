@@ -2,10 +2,6 @@
 title: Encapsulation
 permalink: /docs/4-encapsulation-1/
 ---
-
-Video of this lecture.  [https://web.microsoftstream.com/video/9cba7383-5d02-444f-b746-c4c805ff36e5](https://web.microsoftstream.com/video/9cba7383-5d02-444f-b746-c4c805ff36e5)  
-
-
 ## Recap
 
 Last week we talked about  
@@ -36,6 +32,7 @@ class Bar {
   }
 }
 ```
+
 `f.x` is **private** so it can only be accessed in the object. We can alter it in `setup()` with `x = 42;` because `setup()` is part of the object. We cannot access it in `main()` because `main()` is not part of the object.  
 
 **private** means that only methods in the same class can access that variable. Any other attempts to access will fail to build.  
@@ -114,6 +111,7 @@ By making `day` *private* we force other objects to use the `setDay()` method to
 **Encapsulation** lets us hide our internal workings. This isn't so much about secrecy as it is convenience.  
 
 ### Public & Private : a car
+
 **PUBLIC**
 * Turn the key, put it in gear and press ‘accelerate’: we hear a rumbling noise and we  start moving forwards.  
 

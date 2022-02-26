@@ -7,7 +7,6 @@ We have this concept of **encapsulation** now and the ability to make *class met
 
 These aren't hard and fast rules but are good general guidelines
 
-
 1. Class definitions should be public
 
 Classes should be public.
@@ -88,6 +87,7 @@ public class ClassName {
   }
 }
 ```
+
 However keep in mind at this point the *member variable* `name` might as well be public. 
 
 Setters are useful if you need to control the values that the member variable can be set to.
@@ -195,14 +195,9 @@ public class ClassName {
   }
 }
 ```
-
-
-
-
 ## Bring it all together
 
 Below is an example of all these in one class. Thinking about it this way also gives us a nice way to structure our class. While not essential, a consistent structure across all your classes will make it easier to work with them.  
-
 
 ```java
 import java.util.ArrayList;
