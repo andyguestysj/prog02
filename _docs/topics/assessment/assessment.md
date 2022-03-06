@@ -3,13 +3,11 @@ title: Assessment Brief
 permalink: /docs/assessment/
 ---
 
-[Video Description](https://web.microsoftstream.com/video/0a1c00fe-2b99-4213-8dc9-803d82d4807a)
-
 ## Assessment
 
-The assessment brief is [here](../../COM4005M-AssessmentBrief-2020-21.doc).
+The assessment brief is on moodle [here]([../../COM4005M-AssessmentBrief-2020-21.doc](https://moodle.yorksj.ac.uk/mod/resource/view.php?id=1157563)).
 
-The deadline is at noon on Tuesday the 4th May 2021.
+The deadline is at noon on Monday the 16th May 2022.
 
 The documentation should be submitted through Moodle. The URL of your repl archive should be on the first page of your document.
 
@@ -19,7 +17,7 @@ The documentation should be submitted through Moodle. The URL of your repl archi
 * Module code/title: COM4005M
 * Assessment mode: Portfolio
 * Assessor(s): Andrew Guest
-* Deadline - Noon Tue 16th May 2022
+* Deadline - Noon Mon 16th May 2022
 * Submission - Electronic – notification through moodle and replit.com
 
 ### Overview
