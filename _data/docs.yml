@@ -56,12 +56,13 @@
   - 4-encapsulation-4  
 - title: 5. Inheritance
   docs:
-#  - 5-inheritance-1
-#  - 5-inheritance-2
-#  - 5-inheritance-3
-#  - 5-inheritance-4
-#  - 5-inheritance-5
-#  - 5-inheritance-6
+  - 5-inheritance-1
+  - 5-inheritance-2
+  - 5-inheritance-3
+  - 5-inheritance-4
+  - 5-inheritance-5
+  - 5-inheritance-6
+  - 5-inheritance-7
 - title: 6. Object Orientation
   docs:
 #  - 6-oop2-1
