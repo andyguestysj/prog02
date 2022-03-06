@@ -19,12 +19,12 @@ The documentation should be submitted through Moodle. The URL of your repl archi
 * Module code/title: COM4005M
 * Assessment mode: Portfolio
 * Assessor(s): Andrew Guest
-* Deadline - Noon Tue 4th May 2021
+* Deadline - Noon Tue 16th May 2022
 * Submission - Electronic – notification through moodle and replit.com
 
 ### Overview
 
-The assessment for this module consists of three parts. Part one is an essay on Object Oriented concepts, Part two is a design exercise, to come up with a design for a code challenge and to explain it. Part three is to write code that implements that design. Each of these parts is described in the sections below, each is worth one third of the overall mark for this module.
+The assessment for this module consists of four parts. Part one is an essay on Object Oriented concepts, Part two is a design exercise, to come up with a design for a code challenge and to explain it. Part three is to write code that implements that design. Part four is five exercises handed out in class. Each of these parts is described in the sections below, each is worth one quarter of the overall mark for this module. 
 
 ### 1 – Essay – Principles of Object Oriented Programming (1000 words) 
 
@@ -51,3 +51,6 @@ Your application should implement the following features
 5.	Output “Food required” for all animals in an ArrayList (might be all animals, by be a list from 4)
 6.	Output all animals from a specific environment.
 
+### 4 - Class Exercises
+
+#### 1 - Complex Numbers

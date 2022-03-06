@@ -4,7 +4,6 @@ permalink: /docs/5-inheritance-1/
 ---
 
 Video of this lecture.   
-[https://web.microsoftstream.com/video/ab8e2e5f-f0eb-40dd-84eb-c508a47567c7](https://web.microsoftstream.com/video/ab8e2e5f-f0eb-40dd-84eb-c508a47567c7)  
 
 
 ## Recap
