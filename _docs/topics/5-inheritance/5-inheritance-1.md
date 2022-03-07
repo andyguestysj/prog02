@@ -3,8 +3,7 @@ title: Recap
 permalink: /docs/5-inheritance-1/  
 ---
 
-Video of this lecture.   
-
+[Lecture video - (after Encapsulation)](https://web.microsoftstream.com/video/21b6e000-849c-4651-b974-a7bf05e3077a)     
 
 ## Recap
 

@@ -3,6 +3,8 @@ title: Assessment Exercise 1
 permalink: /docs/assess-ex-1/  
 ---
 
+[Video Breif](https://web.microsoftstream.com/video/6054b7ba-362e-4ea8-ad34-f43000a6b16f)  
+
 ## Complex Numbers Assessment Exercise 1
 
 Clone yourself a copy of **javaAssessEx1** from [https://git.ysjcs.net:8888/a.guest/javaassessex1.git](https://git.ysjcs.net:8888/a.guest/javaassessex1.git). There is an **Instructions.md** file that covers the exercise. (The instructions are repeated below).

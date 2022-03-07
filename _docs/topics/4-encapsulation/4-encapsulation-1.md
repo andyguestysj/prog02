@@ -2,6 +2,9 @@
 title: Encapsulation
 permalink: /docs/4-encapsulation-1/
 ---
+
+[Lecture video](https://web.microsoftstream.com/video/21b6e000-849c-4651-b974-a7bf05e3077a)   
+
 ## Recap
 
 Last week we talked about  
