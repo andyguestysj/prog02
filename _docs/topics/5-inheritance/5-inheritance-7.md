@@ -1,6 +1,6 @@
 ---
 title: Exercises
-permalink: /docs/5-inheritance7/
+permalink: /docs/5-inheritance-7/
 ---
 
 ## Exercise 1
