@@ -2,6 +2,7 @@
 title: Exercises
 permalink: /docs/5-inheritance7/
 ---
+
 ## Exercise 1
 1. Clone yourself a copy of **javaWk5Ex1** from [https://github.com/andyguestysj/javaWk5Ex1](https://github.com/andyguestysj/javaWk5Ex1). There is an **Instructions.md** file that covers the exercise. 
 

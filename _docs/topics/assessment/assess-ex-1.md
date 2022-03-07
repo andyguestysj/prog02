@@ -1,5 +1,5 @@
 ---
-title: Recap
+title: Assessment Exercise 1
 permalink: /docs/assess-ex-1/  
 ---
 
