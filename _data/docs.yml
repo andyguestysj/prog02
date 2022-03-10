@@ -66,14 +66,14 @@
   - 5-inheritance-7
 - title: 6. Object Orientation Review
   docs:
-#  - 6-oop2-1
-#  - 6-oop2-2
-#  - 6-oop2-3
-#  - 6-oop2-4
-#  - 6-oop2-5
-#  - 6-oop2-6
-#  - 6-oop2-7
-#  - 6-oop2-8
+  - 6-oop2-1
+  - 6-oop2-2
+  - 6-oop2-3
+  - 6-oop2-4
+  - 6-oop2-5
+  - 6-oop2-6
+  - 6-oop2-7
+  - 6-oop2-8
 - title: 7. Unified Modelling Language
   docs:
 #  - 7-uml-1
@@ -90,5 +90,5 @@
   - assess-ex-1
 - title: Mid-Module Evaluation
   docs:
-#  - midmod-1
+  - midmod-1
 

@@ -51,5 +51,7 @@ Your application should implement the following features
 
 ### 4 - Class Exercises
 
-  Four exercises will be given out during class sessions. Each is worth 25 marks and together all four will make up 25% of the total mark.
-1. [Complex Numbers](assess-ex-1)
+Four exercises will be given out during class sessions. Each is worth 25 marks and together all four will make up 25% of the total mark.  
+
+1. [Complex Numbers](https://ysjprog02.netlify.app/docs/assess-ex-1/)
+2. [Shapes](https://ysjprog02.netlify.app/docs/assess-ex-2/)
