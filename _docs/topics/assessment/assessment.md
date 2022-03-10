@@ -5,7 +5,7 @@ permalink: /docs/assessment/
 
 ## Assessment
 
-The assessment brief is on moodle [here]([../../COM4005M-AssessmentBrief-2020-21.doc](https://moodle.yorksj.ac.uk/mod/resource/view.php?id=1157563)).
+The assessment brief is on moodle [here](https://moodle.yorksj.ac.uk/mod/resource/view.php?id=1157563).
 
 The deadline is at noon on Monday the 16th May 2022.
 
@@ -51,4 +51,5 @@ Your application should implement the following features
 
 ### 4 - Class Exercises
 
-#### 1 - Complex Numbers
+  Four exercises will be given out during class sessions. Each is worth 25 marks and together all four will make up 25% of the total mark.
+1. [Complex Numbers](assess-ex-1)
