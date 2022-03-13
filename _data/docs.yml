@@ -74,6 +74,8 @@
   - 6-oop2-6
   - 6-oop2-7
   - 6-oop2-8
+- title: Howto
+  - misc-1
 - title: 7. Unified Modelling Language
   docs:
 #  - 7-uml-1
@@ -88,6 +90,7 @@
   docs:
   - assessment
   - assess-ex-1
+  - assess-ex-2
 - title: Mid-Module Evaluation
   docs:
   - midmod-1
