@@ -13,6 +13,8 @@ Video of this lecture [here]()
 
 * [AdoptOpenJDK](https://adoptopenjdk.net/)
   * Add the install\bin folder to the windows path (if on windows)
+
+* [Git For Windows](https://gitforwindows.org/)
   
 * [Visual Studio Code](https://code.visualstudio.com/)
 
