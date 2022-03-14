@@ -3,7 +3,7 @@ title: Assessment Exercise 2
 permalink: /docs/assess-ex-2/  
 ---
 
-[Video Brief]()  
+[Video Brief](https://web.microsoftstream.com/video/6a938db7-9e21-4c40-ae11-0a87b1902167)  
 
 ## Shapes
 

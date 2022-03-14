@@ -3,7 +3,7 @@ title: Howto Guide
 permalink: /docs/misc-1/
 ---
 
-Video of this lecture [here]()
+Video of this lecture [here](https://web.microsoftstream.com/video/fef399ea-f417-4007-8a58-20c83f4c0771)
 
 * [Moodle Page](https://moodle.yorksj.ac.uk/course/view.php?id=25424)
 * [Module Website](https://ysjprog02.netlify.app/0)
