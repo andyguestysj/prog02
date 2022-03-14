@@ -1,6 +1,6 @@
 ---
 title: Howto Guide 
-permalink: /docs/misc1/
+permalink: /docs/misc-1/
 ---
 
 Video of this lecture [here]()
