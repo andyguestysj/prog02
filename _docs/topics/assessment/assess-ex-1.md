@@ -83,8 +83,8 @@ If you have completed the methods correctly all the unit tests will pass. Please
 
 * public double magnitude() - 5 marks
 * public double argument() - 5 marks
-* public String toString() - 5 marks
-* public Complex add(Complex complexNum) - 10 marks
+* public String toString() - 10 marks
+* public Complex add(Complex complexNum) - 5 marks
 
 ## 6 Submission
 
