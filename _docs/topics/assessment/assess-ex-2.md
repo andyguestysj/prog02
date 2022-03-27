@@ -7,7 +7,7 @@ permalink: /docs/assess-ex-2/
 
 ## Shapes
 
-Clone yourself a copy of **javaAssessEx1** from [https://git.ysjcs.net:8888/a.guest/javaassessex2.git](https://git.ysjcs.net:8888/a.guest/javaassessex2.git). There is an **Instructions.md** file that covers the exercise. (The instructions are repeated below).
+Clone yourself a copy of **javaAssessEx2** from [https://git.ysjcs.net:8888/a.guest/javaassessex2.git](https://git.ysjcs.net:8888/a.guest/javaassessex2.git). There is an **Instructions.md** file that covers the exercise. (The instructions are repeated below).
 
 ## 1 Skills
 This exercise should help you with:  
