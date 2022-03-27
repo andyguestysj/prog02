@@ -23,7 +23,7 @@ You need to create UML diagrams for this project.
 
 25 marks are available for this exercise. This breaks down as follows.  
 
-* Class Diagram - 10 d
+* Class Diagram - 10 marks
 * Object Diagram - 5 marks
 * Sequence Diagram - 10 marks
 

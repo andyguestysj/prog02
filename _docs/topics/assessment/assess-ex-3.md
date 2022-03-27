@@ -40,4 +40,4 @@ Add an `addOverdraft()`  method which adds an overdraft limit (passed as a param
 
 ### Submission
 
-Your project should be uploaded to your gitlab account and you should submit a link to the gitlab project, alongside the rest of the assessment, through moodle, by 12noon 16/05/22.  
+Your project should be uploaded to your gitlab account and you should submit a link to the gitlab project, alongside the rest of the assessment, through moodle, by 12 noon 16/05/22.  
