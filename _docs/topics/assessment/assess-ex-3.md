@@ -3,7 +3,7 @@ title: Assessment Exercise 3
 permalink: /docs/assess-ex-3/  
 ---
 
-[Video Brief]()  
+[Video Brief](https://web.microsoftstream.com/video/337baca2-a7ad-4e88-a2b2-1d8b191f4bcd)  
 
 This exercise is a little different. You don't get a started project to work from. You should create a new project yourself and then follow the instructions below. 
 

@@ -3,8 +3,8 @@ title: Assessment Exercise 4
 permalink: /docs/assess-ex-4/  
 ---
 
-[Video Brief]()  
-
+[Video Brief](https://web.microsoftstream.com/video/337baca2-a7ad-4e88-a2b2-1d8b191f4bcd)  
+(after Ex 3 brief)  
 ## Little Lucy's Fabledrealm
 
 Clone yourself a copy of **javaAssessEx4** from [https://git.ysjcs.net:8888/a.guest/javaassessex4.git](https://git.ysjcs.net:8888/a.guest/javaassessex4.git). There is an **Instructions.md** file that covers the exercise. (The instructions are repeated below).
