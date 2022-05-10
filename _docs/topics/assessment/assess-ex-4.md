@@ -16,8 +16,8 @@ Little Lucy is running a fantasy roleplaying game for her friends. She's a busy 
 You need to create UML diagrams for this project.
 
 * **Class Diagram** showing the classes in the application and their relationships to each other. Remember a class diagram shows the class structure as it exists throughout the life of the application. It does not show objects.
-* **Object Diagram** just after the application generates this weeks adventure. (i.e. just after line 6 in App.java finishes running). This diagram should show all the objects that exist at that point and how they are linked to each other.  
-* **Sequence Diagram** showing the objects and methods involved in the line of code `Adventure thisWeek = generator.generateAdventure();` (line 8 in App.java).
+* **Object Diagram** just after the application generates this weeks adventure. (i.e. just after line 6 in App.java finishes running). This diagram should show all the objects that exist at that point and how they are linked to each other, or **activity diagram** showing the generation of an adventure.
+* **Sequence Diagram** showing the objects and methods involved in the line of code `Adventure thisWeek = generator.generateAdventure();` (line 8 in App.java) or a **use case diagram** showing the process of generating an adventure.
 
 ### Marking
 
