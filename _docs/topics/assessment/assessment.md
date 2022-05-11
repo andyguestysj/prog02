@@ -51,7 +51,10 @@ Your application should implement the following features
 
 ### 4 - Class Exercises
 
-Four exercises will be given out during class sessions. Each is worth 25 marks and together all four will make up 25% of the total mark.  
+Three exercises will be given out during class sessions. Each is worth 25 marks and together all four will make up 25% of the total mark.
+
+**Note that Exercise 4 "Little Lucy's Fabledrealm" has been removed from the assessment**
 
 1. [Complex Numbers](https://ysjprog02.netlify.app/docs/assess-ex-1/)
 2. [Shapes](https://ysjprog02.netlify.app/docs/assess-ex-2/)
+3. [Bank Accounts](https://ysjprog02.netlify.app/docs/assess-ex-3/)
